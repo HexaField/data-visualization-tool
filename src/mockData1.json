@@ -1,0 +1,4229 @@
+{
+		"profiles": [
+			{
+				"_id": "Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"data": {
+					"profile": {
+						"loc": "Heverlee",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGBAyWTd434-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1594818219089?e=1740614400&v=beta&t=mXOnJwMIzlQ6E9Ajpr_D2j6f2WER4SVCyf0FjBp-_10",
+						"fullname": "Neil Davidson",
+						"url": "https://www.linkedin.com/in/neil-davidson-89210314/",
+						"username": "neil-davidson-89210314",
+						"desc": ""
+					},
+					"linkedin": {
+						"username": "neil-davidson-89210314",
+						"image": "https://media.licdn.com/dms/image/C4D03AQGBAyWTd434-Q/profile-displayphoto-shrink_400_400/0/1594818218360?e=1697673600&v=beta&t=krOfxauTa_ANCvtkWEfM-PjzM7r8ukT5NKG-sEm4Iys",
+						"loc": "Heverlee",
+						"fullname": "Neil Davidson",
+						"url": "https://www.linkedin.com/in/neil-davidson-89210314/"
+					}
+				}
+			},
+			{
+				"_id": "Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"data": {
+					"linkedin": {
+						"loc": "Wijchen",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGRFQlZiQ0YJw/profile-displayphoto-shrink_400_400/0/1659592108701?e=1683763200&v=beta&t=cxafvAn-FyoUPhcPGNDtOwmhU1SgAB2jTKK10U1_jXA",
+						"username": "anneloes-smitsman",
+						"url": "https://www.linkedin.com/in/anneloes-smitsman/",
+						"fullname": "Dr. Anneloes Smitsman"
+					},
+					"profile": {
+						"loc": "Wijchen",
+						"username": "anneloes-smitsman",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEWM1Wx2HtnNA/profile-displayphoto-shrink_100_100/B4DZTj.6NhG8AU-/0/1738991708031?e=1746057600&v=beta&t=MffwfoI3e9aFaY7dDhEBA8tzvDshE7q19RGpxhzS4qw",
+						"fullname": "Dr. Anneloes Smitsman",
+						"desc": "",
+						"url": "https://www.linkedin.com/in/anneloes-smitsman/"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "schramrobert",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQG77eIsW4rNdA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1662232513502?e=1745452800&v=beta&t=YEKxOv2_LCT0O60B8d_zFvQVxUeMbBNoamlAbjYCDBI",
+						"fullname": "Robert Schram",
+						"desc": "Project-Coordinator at Valstar Simonis",
+						"url": "https://www.linkedin.com/in/schramrobert/",
+						"loc": "Netherlands"
+					},
+					"linkedin": {
+						"username": "schramrobert",
+						"fullname": "Robert Schram",
+						"url": "https://www.linkedin.com/in/schramrobert/",
+						"image": "https://media.licdn.com/dms/image/C4D03AQG77eIsW4rNdA/profile-displayphoto-shrink_400_400/0/1662232513202?e=1681948800&v=beta&t=IRMTRKdwpFUCuDqXcjNNFwVNX25vx4z9S2CaxpfQduE"
+					}
+				},
+				"_id": "Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"loc": "Amsterdam",
+						"username": "alexandreprate",
+						"url": "https://www.linkedin.com/in/alexandreprate/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQFV_9ng9q1u8A/profile-displayphoto-shrink_400_400/0/1664965200903?e=1696464000&v=beta&t=cvVgc9YdpTQZDmKX82Pw-QEawdsL2gEXt7-W3tsDFGI",
+						"fullname": "Alex Prate"
+					},
+					"profile": {
+						"fullname": "Alex Prate",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFV_9ng9q1u8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664965201371?e=1745452800&v=beta&t=ut6LmQmFYqbFG9xyYMWELKvvoP8UxhcoxyDKE8X_hnQ",
+						"desc": "Global Entrepreneur, Venture builder, Innovator & Growth Strategist | Future of Work, Financial Well-being and Regenerative Finance",
+						"url": "https://www.linkedin.com/in/alexandreprate/",
+						"loc": "Amsterdam",
+						"username": "alexandreprate"
+					}
+				},
+				"_id": "Persons/4fdf0ee4-8bbc-4838-8c2b-eb25e681143d"
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQH5m4vR4O6-oQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718258796266?e=1738195200&v=beta&t=DqCl1oL-o95J8u405w1dUfIdSd-oYjkE_NAI7gRyP1Q",
+						"url": "https://www.linkedin.com/in/carlpratt/",
+						"desc": "Founder @ Future Planet | Community | Collaboration | Nature | Climate Action | A Fair World For All ✊🏽❤️🌍",
+						"username": "carlpratt",
+						"loc": "Hove",
+						"fullname": "Carl Pratt"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/carlpratt/",
+						"username": "carlpratt",
+						"fullname": "Carl Pratt",
+						"loc": "Hove",
+						"image": "https://media.licdn.com/dms/image/D4E03AQGTfcOTKZ-KoQ/profile-displayphoto-shrink_400_400/0/1664827513893?e=1695859200&v=beta&t=H5J-1UavXSbXTX2S_T9yT9BgxoBfYk_1NUVKiWsYmPI"
+					}
+				},
+				"_id": "Persons/3efdeb1d-c511-43b8-9172-c595a50565d1"
+			},
+			{
+				"_id": "Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1",
+				"data": {
+					"linkedin": {
+						"username": "leen-gorissen-86aa508",
+						"loc": "Antwerp Metropolitan Area",
+						"fullname": "Leen Gorissen",
+						"url": "https://www.linkedin.com/in/leen-gorissen-86aa508/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQEza_lXFC9CtQ/profile-displayphoto-shrink_400_400/0/1667378524206?e=1703721600&v=beta&t=asKsgBWbMW-yzwrBAl8Is415Xr4nMt5eONT8Lf6N4Y0"
+					},
+					"profile": {
+						"fullname": "Leen Gorissen",
+						"url": "https://www.linkedin.com/in/leen-gorissen-86aa508/",
+						"desc": "Innovation Biologist & Founder Centre4NI I Independent Researcher I Writer I Natural Intelligence R&D I Regenerative practitioner I Sustainability Transitions R&I I Advisor H2020 I KUL postdoc mentor",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEza_lXFC9CtQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1667378525930?e=1740614400&v=beta&t=DTNccUCxyHbWgFWC598byq9AqzEcyZ-Prv3F1TGzXs0",
+						"username": "leen-gorissen-86aa508",
+						"loc": "Antwerp Metropolitan Area"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "bas-van-den-berg-351805107"
+					},
+					"profile": {
+						"desc": "Activist | Novelist | Researcher | Teacher | Author | Regeneration & Inner Development",
+						"username": "bas-van-den-berg-351805107",
+						"url": "https://www.linkedin.com/in/bas-van-den-berg-351805107/",
+						"loc": "The Hague",
+						"fullname": "Bas van den Berg",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFAUhekWb4EyQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704189287157?e=1733356800&v=beta&t=eQudmiuo7Rn3wseRNMTB4neoc8kQyUJmcACamI9iyJA"
+					}
+				},
+				"_id": "Persons/2abf1272-d2f3-4b56-9816-6aa6b4a56f80"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "desireedriesenaar",
+						"url": "https://www.linkedin.com/in/desireedriesenaar/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFRcjgemEqE-g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729917737701?e=1744848000&v=beta&t=ALe68FxIJJpPrv_y5ukQWUwl4cy1ECMssBYDhKeqsTc",
+						"loc": "Venlo",
+						"desc": "Abundanism.com 💙 Simplest Abundance 4 ALL 🌀 Holistic Sciences 🥰 Outliers 💃🏽 Time | Space | Place ⏳",
+						"fullname": "Desiree Driesenaar"
+					},
+					"linkedin": {
+						"username": "desireedriesenaar",
+						"fullname": "Desiree Driesenaar",
+						"url": "https://www.linkedin.com/in/desireedriesenaar/",
+						"loc": "Venlo",
+						"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+					}
+				},
+				"_id": "Persons/cea634de-de99-4f8e-a273-45ed958e18f9"
+			},
+			{
+				"_id": "Persons/b8e0aa55-f6fb-4a25-a66b-f33430b91d17",
+				"data": {
+					"profile": {
+						"loc": "Copenhagen, Capital Region of Denmark, Denmark",
+						"username": "juanpabloherrerogil",
+						"desc": "Regenerative design | Sustainable Architecture | Healthy materials | Building biology & ecology | Food innovation | Climate adaptation | Ecosystem restoration",
+						"fullname": "Juan Pablo Herrero Gil",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFUev2F_Ahp6g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715523971909?e=1730937600&v=beta&t=-Hsqy8aJI2DmsQVlKr63T__iPNoOUulZ9ER54fwOjlw",
+						"url": "https://www.linkedin.com/in/juanpabloherrerogil/"
+					},
+					"linkedin": {
+						"username": "juanpabloherrerogil"
+					}
+				}
+			},
+			{
+				"_id": "Persons/9e335a86-89d1-4c68-b86e-58b05b91c939",
+				"data": {
+					"linkedin": {
+						"username": "lauratufis"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQEVLCBlNylcmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516516296975?e=1737590400&v=beta&t=bZgDpfrStlDCIabZttEHOiEPDHOTOFxKEimWoxHkpVU",
+						"url": "https://www.linkedin.com/in/lauratufis/",
+						"desc": "🌱 Impact-first Marketer | I help social and climate innovators scale their impact through the power of regenerative marketing | Founder of The Marketing Palette | Steward of the Regenerative Marketing Movement",
+						"loc": "Utrecht, Utrecht, Netherlands",
+						"fullname": "Laura Tufis",
+						"username": "lauratufis"
+					}
+				}
+			},
+			{
+				"_id": "Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a",
+				"data": {
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQHLn18MVgWGEw/profile-displayphoto-shrink_400_400/0/1516165214635?e=1698278400&v=beta&t=RhEUNMyVugKBOFwEaJR4m8F34bSJorbB7dpISckkUmI",
+						"loc": "Naaldwijk",
+						"username": "aartvandenbos",
+						"fullname": "Aart Van den Bos",
+						"url": "https://www.linkedin.com/in/aartvandenbos/"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/aartvandenbos/",
+						"desc": "\"Nature always wears the colours of the spirit\"",
+						"loc": "Naaldwijk",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHLn18MVgWGEw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516165215302?e=1740614400&v=beta&t=QtVCahSykideyetfAczHwtbKLU9jzGwCfIQhE7Nlmns",
+						"fullname": "Aart Van den Bos",
+						"username": "aartvandenbos"
+					}
+				}
+			},
+			{
+				"_id": "Persons/bb4b638d-6b3b-46e4-acac-7e0324212f3d",
+				"data": {
+					"linkedin": {
+						"username": "patrickhuntjens"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGSGnY1Q0PIUA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655796216047?e=1738195200&v=beta&t=KiXPE5WMi7tShOcfH1BWGZzeZDBxHrWy3FTUP2gWXNw",
+						"username": "patrickhuntjens",
+						"url": "https://www.linkedin.com/in/patrickhuntjens/",
+						"desc": "Award-winning author & Professor of Governance of Sustainability Transitions",
+						"fullname": "Patrick Huntjens",
+						"loc": "The Hague"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "yasmin-salvatore-041784196"
+					},
+					"profile": {
+						"desc": "🌳Learning from Life, MSc. Bio-inspired Innovation | Biomimicry of being | Life’s wisdom | Transformational coach | Writer | 🌍Changemaker | Women Masterminds: 🦚Your Temple of Wisdom | Tipi Tent corporate retreats",
+						"loc": "Loosdrecht",
+						"username": "yasmin-salvatore-041784196",
+						"url": "https://www.linkedin.com/in/yasmin-salvatore-041784196/",
+						"fullname": "Yasmin Salvatore",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEPyU2ZPi6eZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1687863467125?e=1730332800&v=beta&t=YlWe-dQ9GcqPNEMxjtGqtob2FrOVqUu8_ivGXJQ9T2k"
+					}
+				},
+				"_id": "Persons/e6617cf8-1b14-4f5f-880d-d0103d72c840"
+			},
+			{
+				"_id": "Persons/dcfd9b9f-59d2-40c8-b669-6b381d757830",
+				"data": {
+					"linkedin": {
+						"username": "sinnet-b%C3%B8dewadt"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/sinnet-b%C3%B8dewadt/",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEtEgV6fmxHGA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718247921536?e=1738195200&v=beta&t=48uuI09n3J1Lk1_6Rn-0bLZsQ7RGvuihvaLnPAURw-Y",
+						"loc": "Slagelse",
+						"fullname": "Sinnet Bødewadt",
+						"desc": "Earth's Ally and Storyteller, Weaving Wisdom in DHGHEM Dialogues 🌱✨ | Environmental Scientist, Businesswoman, Healer | Head of Nature+ 🌏 #DhghemDialogues #NurturingEarthsBounty\"",
+						"username": "sinnet-b%C3%B8dewadt"
+					}
+				}
+			},
+			{
+				"_id": "Persons/36211624-d2eb-43be-873c-832c2ab2aa94",
+				"data": {
+					"linkedin": {
+						"fullname": "Renilde Becqué",
+						"url": "https://www.linkedin.com/in/renildebecque/",
+						"username": "renildebecque",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGkNeZcflgiQg/profile-displayphoto-shrink_400_400/0/1546794353480?e=1695859200&v=beta&t=0Gd_gWyOaIMjx4R26SPz4T8bYMlqbPyHw1-SV1V2mgQ",
+						"loc": "The Hague"
+					},
+					"profile": {
+						"fullname": "Renilde Becqué",
+						"loc": "The Hague",
+						"url": "https://www.linkedin.com/in/renildebecque/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQFV3qTOFwKgFg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1728588708553?e=1740319200&v=beta&t=JgkvtD2hyxzvRJYymuZZJ8K7ZOJgT8UbEILhYemmu60",
+						"username": "renildebecque",
+						"desc": "Advisor systems thinking | polycrisis | regenerative futures | 3 horizons | climate | circular economy | bioregions | cities | new economy. The Repatterning Collective"
+					}
+				}
+			},
+			{
+				"_id": "Persons/c0e7bdbd-fd34-499b-95f8-46bdd458c473",
+				"data": {
+					"profile": {
+						"username": "iyasab",
+						"url": "https://www.linkedin.com/in/iyasab/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQExi7FXADOMxA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701458221575?e=1729123200&v=beta&t=H4vsTBu4gw8ypCMV5QL4l0wM9_mld2Q1wZGYuvs2GzI",
+						"loc": "Paris",
+						"desc": "Working on Regenerative Ecologies & Regenerative Finance",
+						"fullname": "Iyas Aït Benhiba, PCC"
+					},
+					"linkedin": {
+						"username": "iyasab"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jnakers"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQE9xdsexF9qtA/profile-displayphoto-shrink_100_100/0/1584748055278?e=1680739200&v=beta&t=CQgMpOVxrLKXHa0FncjliesfT8bVIkd8Vpw1Kx-9rhY",
+						"desc": "Curiosity | Care | Courage",
+						"fullname": "Jeremy Nathaniel Akers",
+						"loc": "Amsterdam",
+						"username": "jnakers",
+						"url": "https://www.linkedin.com/in/jnakers/"
+					}
+				},
+				"_id": "Persons/9b6c3a97-4fd8-41d9-8163-2b18ea602893"
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFQrTshvUOFPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718315040801?e=1746057600&v=beta&t=74CYSMr_0I5mwD2kzWZIdv6mOPg2azASJ3I3DJZtF-4",
+						"fullname": "Dave Pendle MA",
+						"username": "davependle",
+						"loc": "Amsterdam",
+						"desc": "Founder of (Re)Generative You - Evolving Individual and collective capacities towards thrivable world/planet",
+						"url": "https://www.linkedin.com/in/davependle/"
+					},
+					"linkedin": {
+						"loc": "Amsterdam",
+						"url": "https://www.linkedin.com/in/davependle/",
+						"fullname": "Dave Pendle MA",
+						"username": "davependle",
+						"image": "https://media.licdn.com/dms/image/C5603AQFYnBc5lwTgLA/profile-displayphoto-shrink_400_400/0/1601569779666?e=1677715200&v=beta&t=x5iYUxIgFBQkFgG4YwIseH9ltwc8h8oXq8xpfYQjbVI"
+					}
+				},
+				"_id": "Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Educator | Researcher | Regenerative Practitioner | Transformative Learning & Sustainability",
+						"username": "marlies-van-der-wee-569751179",
+						"fullname": "Marlies van der Wee",
+						"loc": "Delft, South Holland, Netherlands",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFbX_wVpO_IHg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1679757928449?e=1740614400&v=beta&t=53S0-blMbMnH7j4leM1Vx_kgAnIcwm3W-GnFpaTs5SY",
+						"url": "https://www.linkedin.com/in/marlies-van-der-wee-569751179/"
+					},
+					"linkedin": {
+						"username": "marlies-van-der-wee-569751179"
+					}
+				},
+				"_id": "Persons/f43ae491-39c0-424c-b4a0-6ba6c2fc1f5d"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "anneliekeverkerk"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGw-dQEJIgyDw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1587492875643?e=1742428800&v=beta&t=kYuSpeHXW9ukCot1AD5NpElaFf2vM6_TwgxAqZPESjU",
+						"url": "https://www.linkedin.com/in/anneliekeverkerk/",
+						"username": "anneliekeverkerk",
+						"fullname": "Annelieke Verkerk",
+						"desc": "International Systemic Transition and Leadership Coach for Changemakers, Catalysts, Teams and Organizations | Regenerative Constellations/ (eco)systeem opstellingen | Human Potential Coach | Public Speaker",
+						"loc": "Delft"
+					}
+				},
+				"_id": "Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab"
+			},
+			{
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/marionbirnstill/",
+						"loc": "Brussels Metropolitan Area",
+						"desc": "",
+						"fullname": "Marion Birnstill",
+						"username": "marionbirnstill"
+					},
+					"linkedin": {
+						"username": "marionbirnstill"
+					}
+				},
+				"_id": "Persons/16737c71-89e8-4dc0-93e5-f4f5be05d7de"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"fullname": "Jeremy (Creative Destruction) Akers",
+						"desc": "Curiosity | Care | Courage",
+						"url": "https://www.linkedin.com/in/gospelofchange/",
+						"loc": "Amsterdam, North Holland, Netherlands",
+						"image": "https://media.licdn.com/dms/image/D4E35AQFhBsAR91KKbw/profile-framedphoto-shrink_400_400/0/1695031316532?e=1710705600&v=beta&t=ssCyoQgYCgowUAs1T-JDSEwBN3nw1D9SJ9qFkvLRym4",
+						"username": "gospelofchange"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D5603AQF027bkcGiizw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726722747901?e=1746057600&v=beta&t=dFSZ7V2UGq8hCR_-o_6xBcmBQii-Y4kl9Gpocw6Q3RY",
+						"username": "gospelofchange",
+						"url": "https://www.linkedin.com/in/gospelofchange/",
+						"fullname": "Jeremy Akers",
+						"desc": "",
+						"loc": "Amsterdam, North Holland, Netherlands"
+					}
+				},
+				"_id": "Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			},
+			{
+				"_id": "Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"data": {
+					"profile": {
+						"loc": "Paris",
+						"username": "sarahdubreil",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFd4Ywl6j99Og/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517378124376?e=1745452800&v=beta&t=4GEvUgbAluUVVeXpokLHKYp2PIlf24yaYQ6i8QMUlpQ",
+						"desc": "",
+						"url": "https://www.linkedin.com/in/sarahdubreil/",
+						"fullname": "Sarah Dubreil"
+					},
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/C4D03AQFd4Ywl6j99Og/profile-displayphoto-shrink_400_400/0/1517378123784?e=1681948800&v=beta&t=2JQ92_RXDQcP-xqNJUnAVhOoMK8yiUtbiZQxAN0R7j8",
+						"loc": "Paris",
+						"username": "sarahdubreil",
+						"url": "https://www.linkedin.com/in/sarahdubreil/",
+						"fullname": "Sarah Dubreil"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEZtBu_DHalyQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699625886697?e=1743638400&v=beta&t=GLhqridviXf6-uL9BwKILk3lYvBdZ_SwXAZwEuL7Gnk",
+						"loc": "Sengouagnet",
+						"fullname": "Anna Kovasna",
+						"username": "anna-kovasna",
+						"url": "https://www.linkedin.com/in/anna-kovasna/"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/anna-kovasna/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQEZtBu_DHalyQ/profile-displayphoto-shrink_400_400/0/1699625886697?e=1715817600&v=beta&t=Jew1VyjQAtFaTm0HcwZB3_zqq7TZ4_8y3bMkN55uQ-4",
+						"loc": "Sengouagnet, Occitanie, France",
+						"fullname": "Anna Kovasna",
+						"username": "anna-kovasna"
+					}
+				},
+				"_id": "Persons/be967159-8ff4-48d7-8076-28d13eadedaf"
+			},
+			{
+				"_id": "Persons/df63039f-4bc2-45ca-af01-6ba55df069bd",
+				"data": {
+					"profile": {
+						"username": "suzannesmulders",
+						"fullname": "Suzanne Smulders",
+						"url": "https://www.linkedin.com/in/suzannesmulders/",
+						"desc": "Regenerative Systems Design l Social Science I Meta Design",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQEeaqps7eJZeQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1526048325220?e=1736985600&v=beta&t=tk3vRHbX1S8pAnwVRnh0RJ4syLEKeCFGKwN_Hqc-5VU",
+						"loc": "Amsterdam"
+					},
+					"linkedin": {
+						"username": "suzannesmulders"
+					}
+				}
+			},
+			{
+				"_id": "Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"data": {
+					"linkedin": {
+						"desc": "E-mail and talk before connecting. Looking for co-founders for RegenCHOICE. How shall we make collectivity truly regenerative? Let's talk it over. See my writings at simongrant.org",
+						"fullname": "Simon Grant",
+						"loc": "Kortenaken",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGwCIYv5rAADQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684249085097?e=1733356800&v=beta&t=hwkSShQVV82HS49FgYrJEeDVtgsQgrV7B7WMiYg9yqA",
+						"url": "https://www.linkedin.com/in/asimong/",
+						"username": "asimong"
+					},
+					"profile": {
+						"loc": "Kortenaken, Flemish Region, Belgium",
+						"url": "https://www.linkedin.com/in/asimong/",
+						"fullname": "Simon Grant",
+						"desc": "",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGwCIYv5rAADQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684249085097?e=1745452800&v=beta&t=07qjEc9cIOWSy2cHXEd6yD3zvIDnUxOTySIOwFdtvAg",
+						"username": "asimong"
+					}
+				}
+			},
+			{
+				"_id": "Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18",
+				"data": {
+					"profile": {
+						"fullname": "Alexander Keehnen",
+						"username": "alexander-keehnen",
+						"desc": "Growing the roots of a New Earth",
+						"loc": "Rotterdam and The Hague",
+						"url": "https://www.linkedin.com/in/alexander-keehnen/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHrWSEDlbin-A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708608459607?e=1745452800&v=beta&t=wKKB9xWr222pSazb7VlYxlrSdc1rlS9NbfVPsspsUBs"
+					},
+					"linkedin": {
+						"loc": "Tulum, ROO",
+						"username": "alexander-keehnen",
+						"url": "https://www.linkedin.com/in/alexander-keehnen/",
+						"fullname": "Alexander Keehnen",
+						"image": "https://media.licdn.com/dms/image/D5603AQHI19wRtkxPzA/profile-displayphoto-shrink_400_400/0/1684274021420?e=1695859200&v=beta&t=vR2A1etz5TadtDM4Bv-Uo3H_vknjtWY0eTzGC6RYe-Q"
+					}
+				}
+			},
+			{
+				"_id": "Persons/6d2cadd0-1312-4e41-9fa7-5288cb8822de",
+				"data": {
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/niccykol/",
+						"username": "niccykol",
+						"fullname": "Niccy Kol",
+						"loc": "Heemstede, North Holland, Netherlands",
+						"image": "https://media.licdn.com/dms/image/D4E03AQEcjB_Tl5jzzg/profile-displayphoto-shrink_400_400/0/1678363377499?e=1708560000&v=beta&t=UpPs1MUPYmNiXsSaimFpi2_honKUvtyxSPSeNie_eTI"
+					},
+					"profile": {
+						"username": "niccykol",
+						"fullname": "Niccy Kol",
+						"desc": "Brand- & Transformation Catalyst, nudging Regenerative Businesses & System change",
+						"loc": "Heemstede",
+						"url": "https://www.linkedin.com/in/niccykol/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHYot2i-qgHjA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728578839396?e=1740614400&v=beta&t=SYp4dGZ58Hto8ckwDzmWKfl9SBzna4qJ2me2B9NJmfg"
+					}
+				}
+			},
+			{
+				"_id": "Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f",
+				"data": {
+					"linkedin": {
+						"username": "alexpielaet"
+					},
+					"profile": {
+						"loc": "Netherlands",
+						"fullname": "Alex Pielaet 🟥",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQEsKI3oy9z0Vg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1719997500958?e=1740067200&v=beta&t=pKlY3kOPtIplCiXSaThm_StusrvZfaSCHJ7Jx0x4umw",
+						"username": "alexpielaet",
+						"url": "https://www.linkedin.com/in/alexpielaet/",
+						"desc": "Exploring Alternative Economics | Post Growth Institute"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Zairah Khan",
+						"desc": "Landscape and community revitaliser #naturebased #regenerative design #urbanwatermanagement #climateresilience #WijkWadi #UrbanIndigenous",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQHIbOotefJfxw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1608051419162?e=1741219200&v=beta&t=ucjpqn-fzQmVCIwaegInVoV_X255ze9I0IArZ92W6n0",
+						"loc": "The Hague",
+						"username": "zairah-khan-1594a91"
+					},
+					"linkedin": {
+						"loc": "The Hague",
+						"username": "zairah-khan-1594a91",
+						"image": "https://media.licdn.com/dms/image/C5603AQHIbOotefJfxw/profile-displayphoto-shrink_400_400/0/1608051418376?e=1677715200&v=beta&t=lUmJUv-_eyKuwDOOFJye3sErOsqXigJUzqZ0qZ8VZnw",
+						"url": "https://www.linkedin.com/in/zairah-khan-1594a91/",
+						"fullname": "Zairah Khan"
+					}
+				},
+				"_id": "Persons/8b17c482-ad39-4e19-9a77-d5893f86a454"
+			},
+			{
+				"data": {
+					"profile": {
+						"loc": "Copenhagen",
+						"username": "laura-storm-regenerators",
+						"fullname": "Laura Storm",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEqb57keQBNiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715771037432?e=1745452800&v=beta&t=q0e1fibzfC7ICq-nztUFz7LWSZ1oZAlpBF_PH_Ia9cg",
+						"desc": "Regenerative Business & Leadership, Regenerators.co, Regenerators Academy"
+					},
+					"linkedin": {
+						"username": "laura-storm-regenerators",
+						"loc": "Copenhagen",
+						"url": "https://www.linkedin.com/in/laura-storm-regenerators/",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGu9dHw7L7sig/profile-displayphoto-shrink_400_400/0/1517657601039?e=1677715200&v=beta&t=8fG9-uyB2cGAycbw21I4B0rixjcW1xlUPSarmUhecmg",
+						"fullname": "Laura Storm"
+					}
+				},
+				"_id": "Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			},
+			{
+				"_id": "Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae",
+				"data": {
+					"profile": {
+						"loc": "Brussels",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQFgviWj3KAkXw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1566821449295?e=1741219200&v=beta&t=q7MxfoNgi4VJjcQTMef30bwcJEOToW3bo8ErFiqzXy8",
+						"username": "nadiasandi",
+						"desc": "Social entrepreneur, ecosystem nurturer, Board member, strategic advisor, weaver, regenerator, mentor",
+						"fullname": "Nadia Sandi"
+					},
+					"linkedin": {
+						"username": "nadiasandi",
+						"url": "https://www.linkedin.com/in/nadiasandi/",
+						"loc": "Brussels",
+						"fullname": "Nadia Sandi",
+						"image": "https://media.licdn.com/dms/image/C4E03AQFgviWj3KAkXw/profile-displayphoto-shrink_400_400/0/1566821448626?e=1677715200&v=beta&t=q8Ny16WlhmOG8dn1sgouh4b2YlIu_k699jVQ6IBZxFQ"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "suzanabarbosa",
+						"image": "https://media.licdn.com/dms/image/C5603AQHoewch9_bknA/profile-displayphoto-shrink_400_400/0/1631310327159?e=1697673600&v=beta&t=S3ydPK--eDwYwnAwdX0zboWKoM8aagYoAHCWn43wvB4",
+						"url": "https://www.linkedin.com/in/suzanabarbosa/",
+						"fullname": "Suzana Barbosa 🦋"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D5635AQHepHDYFrib7w/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1715325708564?e=1734307200&v=beta&t=lQqiW5R13117gOWrFEzIiq7iYnU4bbSCVCEwOzVzpBw",
+						"username": "suzanabarbosa",
+						"loc": "Roskilde",
+						"fullname": "Suzana Barbosa 🦋",
+						"desc": "Startup Coach Specializing in Rapid Results & Regenerative Transformation | Psych-K® Facilitator | Helping Empower Future Innovators"
+					}
+				},
+				"_id": "Persons/2dd83482-cc7e-4184-b20a-18b330f24be2"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "maybrittandersen"
+					},
+					"profile": {
+						"username": "maybrittandersen",
+						"fullname": "May-Britt Vangsgaard Andersen",
+						"url": "https://www.linkedin.com/in/maybrittandersen/",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQG7Fek7RQYbpA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730142417947?e=1741219200&v=beta&t=O8mmiNrNae7utMxdyXf7eP0k5BVzzI8PNPEaQnZ1wcM",
+						"desc": "",
+						"loc": "Copenhagen, Capital Region of Denmark, Denmark"
+					}
+				},
+				"_id": "Persons/3c107249-fd69-434e-bd1c-93108b9e58e0"
+			},
+			{
+				"_id": "Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49",
+				"data": {
+					"profile": {
+						"loc": "Amsterdam",
+						"desc": "",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEE92lNfAGfkQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725887784837?e=1744848000&v=beta&t=GIz9AfvSeEWWL59b5-kw3xiAIvrNE0PqusW-JZF8Ha8",
+						"username": "marcellopalazzi",
+						"fullname": "Marcello Palazzi, MSc MBA, FRSA"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/marcellopalazzi/",
+						"image": "https://media.licdn.com/dms/image/C4E03AQFs-gCduUKHmQ/profile-displayphoto-shrink_400_400/0/1660811500648?e=1677715200&v=beta&t=m6yvS4OglYG_s9cSM_tH4YtDezKGx_FdIafQVCA3Cfw",
+						"fullname": "Marcello Palazzi",
+						"loc": "Amsterdam",
+						"username": "marcellopalazzi"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"loc": "Brussels Metropolitan Area",
+						"fullname": "Philippe Drouillon",
+						"username": "philippedrouillon",
+						"url": "https://www.linkedin.com/in/philippedrouillon/",
+						"image": "https://media.licdn.com/dms/image/C4E03AQHIDsTZ9BjP2Q/profile-displayphoto-shrink_800_800/0/1516194492017?e=1707350400&v=beta&t=YVWO8Uu3uT7JbC660sQPFWMSsi7uwtV4x14q-1viK9M"
+					},
+					"profile": {
+						"desc": "Catalyst of Regenerative Teams, Organizations & Territories | B Leader",
+						"fullname": "Philippe Drouillon",
+						"username": "philippedrouillon",
+						"url": "https://www.linkedin.com/in/philippedrouillon/",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHoDZp3upKpqg/profile-displayphoto-shrink_100_100/B4EZR.S840HAAU-/0/1737285685296?e=1744848000&v=beta&t=sDi76gAC1j2YJb26grVxRevuZiADK90aFwLCg48izlg",
+						"loc": "Brussels Metropolitan Area"
+					}
+				},
+				"_id": "Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75"
+			},
+			{
+				"_id": "Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQHjDdlFxHJ5SA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631002149444?e=1740614400&v=beta&t=GnGq1yxZ6SOTiwX2QARAcy4yP2Ze6BYpZfXHIU6zz2s",
+						"desc": "",
+						"loc": "Amsterdam",
+						"fullname": "Pieter van der Gaag",
+						"username": "pietervandergaag"
+					},
+					"linkedin": {
+						"username": "pietervandergaag",
+						"fullname": "Pieter van der Gaag",
+						"image": "https://media.licdn.com/dms/image/C4D03AQHjDdlFxHJ5SA/profile-displayphoto-shrink_400_400/0/1631002149003?e=1697673600&v=beta&t=5xAoS2DNBQF2K7iYlZ-4waLcm2Aodhc5whenUbaDUZ8",
+						"url": "https://www.linkedin.com/in/pietervandergaag/",
+						"loc": "Amsterdam"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "emeliewinter"
+					},
+					"profile": {
+						"fullname": "Emelie Winter",
+						"loc": "Paris",
+						"username": "emeliewinter",
+						"desc": "Product manager & Sustainability Consultant #ProductDevelopment #ComplexSystems #RegenerativePractices #SustainabilityStrategy",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHGATJsTyOEpQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727863048591?e=1733961600&v=beta&t=gUd_Cs84cnphwjNnuZujtz--Zi1MvXWwZp8qfrHoMP4",
+						"url": "https://www.linkedin.com/in/emeliewinter/"
+					}
+				},
+				"_id": "Persons/e1ccf292-72b8-4b94-ae05-8623f807930d"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "sorenstig",
+						"loc": "Copenhagen Metropolitan Area",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFFfZlW1f1JWg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1690282137833?e=1744848000&v=beta&t=A2ercra2jboFyZ6wEfJkZ7mGuuZvp2Wh13fCMIJn_dc",
+						"desc": "Trusted Advisor & Serial Founder | Investing for Regeneration, Systemic Change, Shared Value & More Inclusive Communities",
+						"fullname": "Soren Stig"
+					},
+					"linkedin": {
+						"loc": "Vallerød",
+						"fullname": "Soren Stig",
+						"image": "https://media.licdn.com/dms/image/D4E03AQFFfZlW1f1JWg/profile-displayphoto-shrink_400_400/0/1690282136471?e=1700092800&v=beta&t=vx9OS363jAMJyqwvKm-hIxR4x5S4AVSdOxvO59Q87E0",
+						"username": "sorenstig",
+						"url": "https://www.linkedin.com/in/sorenstig/"
+					}
+				},
+				"_id": "Persons/c02aeea9-7229-4970-9765-6ec431901ec4"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"fullname": "Dr. Eduardo Noboa",
+						"loc": "Greater Hamburg Area",
+						"image": "https://media.licdn.com/dms/image/C5603AQGFvE8iz9FppA/profile-displayphoto-shrink_400_400/0/1635704149445?e=1695859200&v=beta&t=TPBLXVxqCRvIHT9jwmQ7K10n1cW0Lmazymlst9GE54M",
+						"username": "eduardo-noboa",
+						"url": "https://www.linkedin.com/in/eduardo-noboa/"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/eduardo-noboa/",
+						"desc": "Strategic Sustainability Advisor | Climate Action | Energy Transition | Regenerative Cities | Purpose-Driven Business Models | Systemic Transformations to Sustainable Futures",
+						"fullname": "Dr. Eduardo Noboa",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQGFvE8iz9FppA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1635704150401?e=1733356800&v=beta&t=XNc1Sm45WmnNrBDo5EjNpZK1uQmj_xIxdYWf2tQ2eb0",
+						"username": "eduardo-noboa",
+						"loc": "Greater Hamburg Area"
+					}
+				},
+				"_id": "Persons/02f5430b-c8d6-446c-ab62-52061d40050f"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Driving force and steward @Commons Hub Brussel | Freelance facilitator, deep democracy trainer @Open Facilitation I Spark, weaver and facilitator @Regens Unite",
+						"username": "leen-schelfhout",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQElDGhvFTW6Cw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1536865086809?e=1741219200&v=beta&t=dp9v6LwpUqK4XLETqL9xejm4T1uEet1dFmj50Y0YmRg",
+						"fullname": "Leen Schelfhout",
+						"loc": "Brussels",
+						"url": "https://www.linkedin.com/in/leen-schelfhout/"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/leen-schelfhout/",
+						"username": "leen-schelfhout",
+						"loc": "Brussels",
+						"fullname": "Leen Schelfhout",
+						"image": "https://media.licdn.com/dms/image/C4D03AQElDGhvFTW6Cw/profile-displayphoto-shrink_400_400/0/1536865084271?e=1697673600&v=beta&t=5k3zqYjB-wKFfoL64SGNGR1nVByzMV_yDmTN5zDp4c8"
+					}
+				},
+				"_id": "Persons/6219848a-e80c-4357-90bc-6329ec6f47b7"
+			},
+			{
+				"_id": "Persons/05afdab6-66ff-40b7-befc-ddf68e21c890",
+				"data": {
+					"linkedin": {
+						"fullname": "Xavier Damman",
+						"image": "https://media.licdn.com/dms/image/C4D03AQH1p5aT30RHCQ/profile-displayphoto-shrink_400_400/0/1617979562104?e=1695859200&v=beta&t=YeZtzqNeMD7NZ7wXosAEYJah0GBBpSBfirY71CPEbzk",
+						"loc": "Brussels Region, Belgium",
+						"username": "xavierdamman",
+						"url": "https://www.linkedin.com/in/xavierdamman/"
+					},
+					"profile": {
+						"fullname": "Xavier Damman",
+						"desc": "Entrepreneur, Dad, Citizen, Regen.",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQH1p5aT30RHCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1617979563096?e=1737590400&v=beta&t=wzj1rfgxU2z3KLyj50vYwlkz0P238TcVWnGasPZeggg",
+						"username": "xavierdamman",
+						"loc": "Brussels"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHT0NG1y7Jt4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1657706376986?e=1740614400&v=beta&t=derf-8O0cXD4whHoGCEF8yoceka_EKZH3uuieqdkz-E",
+						"fullname": "pIEt Haerens",
+						"desc": "Founder - Chief Soul & Strategy Officer at HAEDES",
+						"username": "piet-haerens-23a0b122",
+						"loc": "Ghent, Flemish Region, Belgium",
+						"url": "https://www.linkedin.com/in/piet-haerens-23a0b122/"
+					},
+					"linkedin": {
+						"username": "piet-haerens-23a0b122"
+					}
+				},
+				"_id": "Persons/4c6d2081-a650-4b99-9677-419a615a6911"
+			},
+			{
+				"data": {
+					"profile": {
+						"loc": "Amsterdam",
+						"url": "https://www.linkedin.com/in/dsiebert/",
+						"fullname": "Dr. Mark Siebert",
+						"desc": "Business and Impact Development | From Tech to Service | Deep Social Ventures & SHAPE start-ups | Data - AI - Web3 | Senior Advisor | Mentor | Network Catalyst",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEbxGAixeA4Vg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711353150682?e=1733961600&v=beta&t=eS_Wy_I9xZP447E48mg3OpoWwwLHV_ZTFKPAZZF7gC8",
+						"username": "dsiebert"
+					},
+					"linkedin": {
+						"username": "dsiebert"
+					}
+				},
+				"_id": "Persons/2aabc766-7406-41bd-9eb3-e29ae4db58de"
+			},
+			{
+				"_id": "Persons/dab505a9-68a6-4a88-bd17-0fc0bef81b9f",
+				"data": {
+					"profile": {
+						"username": "claudia-a-b2506445",
+						"url": "https://www.linkedin.com/in/claudia-a-b2506445/",
+						"loc": "Netherlands",
+						"fullname": "Claudia A.",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQE3XWVmVw6suQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704994114175?e=1730332800&v=beta&t=5y99fVVc5vXWj7TI2PvFy7yyAZ8jnbynlg1u6UjeBoY",
+						"desc": "regenerative economics Schumacher College | activist | e-com & digital | founder thegreenlabels (sold)"
+					},
+					"linkedin": {
+						"username": "claudia-a-b2506445"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "elineveninga"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQF66xFo2EPTDA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726411718459?e=1736985600&v=beta&t=-e2jmCnMczc-AaL2PQgoUYmXtlaNNaCFqS4Kc1AQL_M",
+						"loc": "Amsterdam",
+						"url": "https://www.linkedin.com/in/elineveninga/",
+						"fullname": "Eline Veninga",
+						"desc": "Chef de mission - Lenteland | Regenerative farms, community-owned | Food100 changemaker",
+						"username": "elineveninga"
+					}
+				},
+				"_id": "Persons/e756c2a6-0101-4f2c-9ac2-3d91fc393079"
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Sabine Coulon",
+						"loc": "Amsterdam",
+						"username": "sabinecoulon",
+						"desc": "",
+						"url": "https://www.linkedin.com/in/sabinecoulon/",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGqTaJUjL_PDA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1574074526232?e=1740614400&v=beta&t=stxGXLWIT2hwv0me4a14-byquTace59HPbi_TYFCmnY"
+					},
+					"linkedin": {
+						"username": "sabinecoulon",
+						"url": "https://www.linkedin.com/in/sabinecoulon/",
+						"loc": "Amsterdam",
+						"fullname": "Sabine Coulon (she/her)",
+						"image": "https://media.licdn.com/dms/image/C4D03AQGqTaJUjL_PDA/profile-displayphoto-shrink_400_400/0/1574074525200?e=1698278400&v=beta&t=N4v6gKJmUY0fy-bw--9cqcjjcTDnN_F_jS6xUIGMcXI"
+					}
+				},
+				"_id": "Persons/668ba9f7-c609-4f3a-819a-2816066a211a"
+			},
+			{
+				"_id": "Persons/81696ce0-0729-4379-92fb-3ced3a1fdb68",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGInQiHOCiGyw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516967338480?e=1740614400&v=beta&t=squHngcG3kCBHMqABCsaTK3-SQpZnHHhGltn7_glQnk",
+						"url": "https://www.linkedin.com/in/liesbeth-reekmans/",
+						"fullname": "Liesbeth Reekmans",
+						"loc": "Leuven",
+						"username": "liesbeth-reekmans",
+						"desc": "Passionate Advocate for Sustainable/Regenerative Development & Biophilic Design | Healthier humans through better buildings | Public Speaker"
+					},
+					"linkedin": {
+						"username": "liesbeth-reekmans"
+					}
+				}
+			},
+			{
+				"_id": "Persons/5805c03c-2a60-43dc-93fe-999032f01f74",
+				"data": {
+					"profile": {
+						"fullname": "Maëla Porcheron",
+						"username": "ma%c3%abla-porcheron-b4338452",
+						"url": "https://www.linkedin.com/in/ma%C3%ABla-porcheron-b4338452/",
+						"desc": "Senior Project Manager | Regenerative Agriculture | +10years experience",
+						"loc": "Amsterdam, North Holland, Netherlands"
+					},
+					"linkedin": {
+						"username": "ma%c3%abla-porcheron-b4338452"
+					}
+				}
+			},
+			{
+				"_id": "Persons/a00766e1-8a9c-4115-9cdd-e78f48d95457",
+				"data": {
+					"linkedin": {
+						"username": "coraolsen",
+						"loc": "Copenhagen",
+						"fullname": "Cora Olsen",
+						"image": "https://media.licdn.com/dms/image/C4D03AQFGI5sC9aqiPw/profile-displayphoto-shrink_400_400/0/1643288592492?e=1696464000&v=beta&t=gVt9ezD1OP77yAKt9ZXcYk6-KG92FvgmEcBHh0fdlBc",
+						"url": "https://www.linkedin.com/in/coraolsen/"
+					},
+					"profile": {
+						"loc": "Copenhagen, Capital Region of Denmark, Denmark",
+						"fullname": "Cora Olsen",
+						"username": "coraolsen",
+						"url": "https://www.linkedin.com/in/coraolsen/",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFGI5sC9aqiPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643288592924?e=1730332800&v=beta&t=XE7z-5AQBDdK2WFl0G1FYFA9ZTOcaeI6MunqJwxVhkM",
+						"desc": "Vice President, Head of Sustainability & Regeneration at Better Energy"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "madskjoellerdamkjaer",
+						"fullname": "Mads Kjøller Damkjær",
+						"desc": "Managing Director, Cultivate Today I Brand I Culture I Art I Partner, Tomorrow Projects I Innovation I Technology I Business",
+						"loc": "Copenhagen",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQEZgsJzP3lRiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1633010147702?e=1744848000&v=beta&t=sUeE0wUpyMQetwg-Nl1oTul8v_Jl1khxrzMP_eDKbNA"
+					},
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQEZgsJzP3lRiA/profile-displayphoto-shrink_400_400/0/1633010146832?e=1677715200&v=beta&t=ZI-CeqoTLk0Z9CDhrHtZcU7DOG5SsVEduspisKAUkDI",
+						"loc": "Copenhagen",
+						"url": "https://www.linkedin.com/in/madskjoellerdamkjaer/",
+						"username": "madskjoellerdamkjaer",
+						"fullname": "Mads Kjøller Damkjær"
+					}
+				},
+				"_id": "Persons/d419c0be-edf4-4706-a7bb-3192ecd93a57"
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Remy Bourganel",
+						"desc": "(He/him) Holistic thinker & servant design leader scouting regenerative service ecosystem, from purpose to impact",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQE9SjVt7rLLKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727206985378?e=1741219200&v=beta&t=lcGKGTLmegy27RHswXdcDJHeGwI4_MqNBv_mSIwBzco",
+						"username": "remybourganel",
+						"loc": "Paris"
+					},
+					"linkedin": {
+						"username": "remybourganel",
+						"fullname": "Remy Bourganel",
+						"loc": "Paris",
+						"url": "https://www.linkedin.com/in/remybourganel/",
+						"image": "https://media.licdn.com/dms/image/C4E03AQE0_9MJ4Lz_ww/profile-displayphoto-shrink_400_400/0/1661598961201?e=1695859200&v=beta&t=ovhU3ul2phM-K35rJLutCgsE7TOlHl13SwNRD01FOEE"
+					}
+				},
+				"_id": "Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379"
+			},
+			{
+				"_id": "Persons/1d5047dd-4abd-470c-bf09-1e125458c399",
+				"data": {
+					"linkedin": {
+						"username": "marielle-gussenhoven-612a22",
+						"url": "https://www.linkedin.com/in/marielle-gussenhoven-612a22/",
+						"image": "https://media.licdn.com/dms/image/C4D03AQH4862Gaq3bXw/profile-displayphoto-shrink_400_400/0/1516266519706?e=1703721600&v=beta&t=o3zn0TNplYgIvgDjBoUGS80osV7OWgkss9uZibTph24",
+						"loc": "Amsterdam Area",
+						"fullname": "Marielle Gussenhoven"
+					},
+					"profile": {
+						"loc": "Amsterdam Area",
+						"fullname": "Marielle Gussenhoven",
+						"username": "marielle-gussenhoven-612a22",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQH4862Gaq3bXw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516266520468?e=1737590400&v=beta&t=y8fG46xtoSlgO9HxJw6DGB3icESDRrMD8acQYzLHerQ",
+						"desc": ""
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Exploring community resilience and leadership through the polycrisis",
+						"fullname": "Anna Kovasna",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGogzjwGZsRnA/profile-displayphoto-shrink_100_100/0/1649859042517?e=1677110400&v=beta&t=_1A05ZiJFE6jLOquqmssdtG5BH7qX__2rfLiKyFa_w4",
+						"loc": "Sengouagnet",
+						"username": "anna-kovasna-581a331"
+					},
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQGogzjwGZsRnA/profile-displayphoto-shrink_400_400/0/1649859042517?e=1695859200&v=beta&t=kW2rwkEzbzyrUFNkE34sJ1u4W_110AhNOGhEkcYVX5c",
+						"username": "anna-kovasna-581a331",
+						"loc": "Sengouagnet",
+						"fullname": "Anna Kovasna",
+						"url": "https://www.linkedin.com/in/anna-kovasna-581a331/"
+					}
+				},
+				"_id": "Persons/9cdc1542-5903-4ed0-a4a2-3ff3cb8b6c67"
+			},
+			{
+				"_id": "Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6",
+				"data": {
+					"profile": {
+						"fullname": "Sarah Juhl Gregersen",
+						"url": "https://www.linkedin.com/in/sarah-juhl-gregersen-a143b9/",
+						"username": "sarah-juhl-gregersen-a143b9",
+						"desc": "Working with Resilience, Regenerative business models and biomimicry",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGkOvBA7XquVA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1671547895681?e=1740614400&v=beta&t=kaFV7edKYWQTx9t0S-EDala8YnLGTaEzTUUdRdP44z4",
+						"loc": "Copenhagen"
+					},
+					"linkedin": {
+						"loc": "Copenhagen",
+						"fullname": "Sarah Juhl Gregersen",
+						"username": "sarah-juhl-gregersen-a143b9",
+						"url": "https://www.linkedin.com/in/sarah-juhl-gregersen-a143b9/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQGkOvBA7XquVA/profile-displayphoto-shrink_400_400/0/1671547894125?e=1695859200&v=beta&t=hw79adrVchxRj1fg_p6NPzFki1DQ2i10IIy6Ud7nLzM"
+					}
+				}
+			},
+			{
+				"_id": "Persons/bce0d0ac-e8ab-47cc-9a17-1de20827f987",
+				"data": {
+					"linkedin": {
+						"loc": "Netherlands",
+						"image": "https://media.licdn.com/dms/image/C4D03AQEF8W4AfamQ-Q/profile-displayphoto-shrink_800_800/0/1516240830679?e=1709164800&v=beta&t=CnynekHxbhv5qDTz1M_4A8T--0CFEwT6lna677kFZAM",
+						"username": "denniskerkhoven",
+						"url": "https://www.linkedin.com/in/denniskerkhoven/",
+						"fullname": "Dennis Kerkhoven"
+					},
+					"profile": {
+						"desc": "",
+						"loc": "Netherlands",
+						"username": "denniskerkhoven",
+						"fullname": "Dennis Kerkhoven",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQEF8W4AfamQ-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516240830845?e=1738195200&v=beta&t=AUa5TrMMHYnqPTfQySXLtsoPvntKo7TJ3u9qYlbz0tE"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGoRSgGC4lLGA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516231894977?e=1738195200&v=beta&t=5NhdL8_ZFu0cw2wW8tyBYXMjsuDYnaCvDuml4YXr4bU",
+						"username": "nille-skalts-b27272",
+						"desc": "Founder & Executive Director of the Nordic B Corp Movement. Corporate Activist, facilitating the transformation to a regenerative economy. Co-founder Märk, Board Member & driving the Nordic B Corp movement.",
+						"fullname": "Nille Skalts",
+						"loc": "Copenhagen"
+					},
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQGoRSgGC4lLGA/profile-displayphoto-shrink_400_400/0/1516231892366?e=1698883200&v=beta&t=tGuY-obMYs64MfV_DqXNnr_Xcbx-AXfHtNaS5ZFHbC8",
+						"fullname": "Nille Skalts",
+						"url": "https://www.linkedin.com/in/nille-skalts-b27272/",
+						"username": "nille-skalts-b27272"
+					}
+				},
+				"_id": "Persons/5ecb6159-13d2-433f-8e6b-0cae7cf9a450"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"fullname": "Christina Ørnstrand",
+						"url": "https://www.linkedin.com/in/christinaoernstrand/",
+						"username": "christinaoernstrand",
+						"loc": "Frederiksberg",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGaiuuKHv83HQ/profile-displayphoto-shrink_400_400/0/1583222974583?e=1696464000&v=beta&t=jF-SkrxmG7AfDxrgC1c54dkBWDZtiZj_zQL2i3jD9l0"
+					},
+					"profile": {
+						"username": "christinaoernstrand",
+						"loc": "Frederiksberg Municipality",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGaiuuKHv83HQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1583222975514?e=1744848000&v=beta&t=gZh-rvb2kv13qlFR4wpMPS_NDwjABNS1MO_zLy4U8ok",
+						"fullname": "Christina Ørnstrand",
+						"desc": "Impact | Activist(-ic) | Facilitator | Investor"
+					}
+				},
+				"_id": "Persons/52137243-044f-4da1-80d7-3a8170b1bbd4"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/sandja/",
+						"fullname": "Sandja Brügmann",
+						"username": "sandja",
+						"loc": "Copenhagen",
+						"image": "https://media.licdn.com/dms/image/C4D03AQHOofeOvzcilw/profile-displayphoto-shrink_400_400/0/1516302989522?e=1695859200&v=beta&t=neKhIb--OlFbfV-k91u8Biq_HLznjpPn8ineUT-sVzY"
+					},
+					"profile": {
+						"loc": "Copenhagen",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFQz_CpPWMptA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727781739036?e=1737590400&v=beta&t=lfhhyt43Zw931Qt3L2uBX9O8ov9UbH_nwsIBrynILCY",
+						"fullname": "Sandja Brügmann",
+						"desc": "",
+						"username": "sandja"
+					}
+				},
+				"_id": "Persons/be4fdab3-6ba3-48ba-99f7-f0af560ddac0"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "annataws"
+					},
+					"profile": {
+						"loc": "Copenhagen",
+						"fullname": "Anna Taws",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEpT7f-VNU0pg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731692203961?e=1738195200&v=beta&t=OIAIDrmU9utl0fR-e88Tps7upw-S76HceCGmxRFh4dY",
+						"username": "annataws",
+						"desc": "Radical Creativity • Regenerative Change Maker • Regenerative Design • Inner Growth • Self-Leadership with Inner Development Goals • Heartsmart mindsetter • Impact entrepreneur • Permakultur bybonde"
+					}
+				},
+				"_id": "Persons/c1cd27ae-a7a4-4643-9ac7-d8fc0bc16a65"
+			},
+			{
+				"_id": "Persons/f0cc8c2f-7c95-49f6-8407-1c41ab4d10ff",
+				"data": {
+					"linkedin": {
+						"username": "berndherbert"
+					},
+					"profile": {
+						"loc": "Porto",
+						"url": "https://www.linkedin.com/in/berndherbert/",
+						"username": "berndherbert",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFmr9SezpvRVQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1624022018662?e=1744848000&v=beta&t=he3WMQovhTmQFblJV3rvd5YWf92lerudpK6OnSrUXYA",
+						"fullname": "Bernd Herbert",
+						"desc": "Management Consulting, Coaching & Facilitation for Strategic & Systemic Business Design | Co-Founder | Board Member"
+					}
+				}
+			},
+			{
+				"_id": "Persons/7934d2c1-754d-47dc-8606-a9ecc50d810b",
+				"data": {
+					"profile": {
+						"loc": "Amsterdam, North Holland, Netherlands",
+						"fullname": "Dieter Van den Broeck",
+						"url": "https://www.linkedin.com/in/dieter-van-den-broeck/",
+						"username": "dieter-van-den-broeck",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFqBu6QALaDmw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1607547731082?e=1740614400&v=beta&t=WwDUZi6Tzl_7EeyPdL6f6RsUhLT6IciWJInyMO5wCAI",
+						"desc": ""
+					},
+					"linkedin": {
+						"username": "dieter-van-den-broeck"
+					}
+				}
+			},
+			{
+				"_id": "Persons/817449e0-5696-4abe-949f-ca93d6ac0c00",
+				"data": {
+					"profile": {
+						"username": "ingewallage",
+						"fullname": "Inge Wallage",
+						"loc": "Amsterdam",
+						"desc": "Corporate Director Communications & Marketing at Wageningen University & Research"
+					},
+					"linkedin": {
+						"loc": "Amsterdam",
+						"username": "ingewallage",
+						"url": "https://www.linkedin.com/in/ingewallage/",
+						"fullname": "Inge Wallage",
+						"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+					}
+				}
+			},
+			{
+				"_id": "Persons/0fd396f4-c22f-4fc2-a1f9-eea93adb2552",
+				"data": {
+					"profile": {
+						"desc": "Strategic Planning / design for impactful innovation, communication, marketing, communities. Engaged in the regenerative movement #regeneration #humans #onehealth -) #noussommesvivants #pourquoitucours #lesecologistes",
+						"url": "https://www.linkedin.com/in/jeremydumont/",
+						"username": "jeremydumont",
+						"fullname": "Jeremy dumont ✔",
+						"loc": "Paris",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQGNEuIidr3Njw/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1680595337640?e=1732881600&v=beta&t=5YoCBEWV0bOrpMGpxk6anfM6j9W1wTbqkqvpjmiGPDE"
+					},
+					"linkedin": {
+						"username": "jeremydumont",
+						"fullname": "Jeremy dumont ✔, #OPEN_TO_WORK",
+						"image": "https://media.licdn.com/dms/image/D4E35AQGNEuIidr3Njw/profile-framedphoto-shrink_400_400/0/1680595337401?e=1691431200&v=beta&t=PsCS7edtfvtAj5p8gbxzgIBrciYK2zPHNDztkAef2GQ",
+						"url": "https://www.linkedin.com/in/jeremydumont/",
+						"loc": "Paris"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "anne-weber-carlsen-5871701",
+						"loc": "Aarhus",
+						"fullname": "Anne Weber Carlsen",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFWyM7w3oArJw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730371144020?e=1737590400&v=beta&t=VfQlyPrwcTONDExIt5F9Gxqyo1K7HWg_PRHZ7UPgJHw",
+						"desc": ""
+					},
+					"linkedin": {
+						"fullname": "Anne Weber Carlsen",
+						"username": "anne-weber-carlsen-5871701",
+						"url": "https://www.linkedin.com/in/anne-weber-carlsen-5871701/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQF-DehYr1oizQ/profile-displayphoto-shrink_400_400/0/1678395192860?e=1704326400&v=beta&t=OglAjFOcRjYwmNO4v3wgOjq2LcYjPdbv9O3rnMmBWtg",
+						"loc": "Aarhus"
+					}
+				},
+				"_id": "Persons/8c989646-9ec8-41c1-a5d6-5a3725dde8d9"
+			},
+			{
+				"_id": "Persons/de4ccd03-f716-4383-9184-d6fb21e3c8c7",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQF5FcISvUnajQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1672962233152?e=1740614400&v=beta&t=qTkEX7-KtkYpk4KRz02VJ7CI65JS8CeLfOA9K5jL4bY",
+						"desc": "Coach, catalyst & creative strategist for regenerative change",
+						"username": "mirandavangendt",
+						"loc": "Amsterdam Area",
+						"fullname": "Miranda van Gendt"
+					},
+					"linkedin": {
+						"fullname": "Miranda van Gendt",
+						"username": "mirandavangendt",
+						"image": "https://media.licdn.com/dms/image/D4E03AQF5FcISvUnajQ/profile-displayphoto-shrink_400_400/0/1672962228060?e=1696464000&v=beta&t=T5YJK1O5jXzjSX4bfImBXNYf0Wntv1AmfS5onMFL_Yo",
+						"loc": "Amsterdam Area",
+						"url": "https://www.linkedin.com/in/mirandavangendt/"
+					}
+				}
+			},
+			{
+				"_id": "Persons/96cdef49-7782-449f-8f7d-588a5572b31d",
+				"data": {
+					"profile": {
+						"loc": "Netherlands",
+						"username": "marieke-smets-4a05123",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGjGd10utvDpQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1685005247752?e=1740614400&v=beta&t=YGCDa-8xYjrWwnzwpmLKI7cNsliLZ1bcWGST8WOXjto",
+						"desc": "design and system thinking . human beings and change . societal transformation . complexity research . co-creating regenerative futures . curious . analytical . creative",
+						"fullname": "Marieke Smets"
+					},
+					"linkedin": {
+						"username": "marieke-smets-4a05123"
+					}
+				}
+			},
+			{
+				"_id": "Persons/4c48c8ee-fce1-4afa-9801-44833811c07b",
+				"data": {
+					"linkedin": {
+						"fullname": "Patrick NOEL",
+						"loc": "Paris",
+						"image": "https://media.licdn.com/dms/image/D4D03AQEwUIJFODJ-tg/profile-displayphoto-shrink_400_400/0/1676659148030?e=1698278400&v=beta&t=4t4SnoZGfltxNSNihJk3Es18ni9mF6fAMvU1yCLX968",
+						"username": "patricknoel",
+						"url": "https://www.linkedin.com/in/patricknoel/"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEwUIJFODJ-tg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1676659150349?e=1744848000&v=beta&t=qPBOBzwe8za8ufs-UESOiQyyMVPcTwMY66ZctQDV9jI",
+						"username": "patricknoel",
+						"fullname": "Patrick NOEL",
+						"loc": "Paris",
+						"desc": ""
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "",
+						"loc": "Montreuil",
+						"fullname": "Yann Mauchamp 🦓",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQFvpb0nUPKL1w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1634048608324?e=1739404800&v=beta&t=l4Fvj2BJHU60bPbMnflQmP8nlkB0kaJjuSqLJWorK3Y",
+						"username": "yannmauchamp"
+					},
+					"linkedin": {
+						"fullname": "Yann Mauchamp 🦓",
+						"url": "https://www.linkedin.com/in/yannmauchamp/",
+						"username": "yannmauchamp",
+						"image": "https://media.licdn.com/dms/image/C4E03AQFvpb0nUPKL1w/profile-displayphoto-shrink_400_400/0/1634048607920?e=1696464000&v=beta&t=FoNHOZjCOZJofZQwfq5jrZz1LZYNoQv2P2kOAqs8FNo",
+						"loc": "Montreuil"
+					}
+				},
+				"_id": "Persons/9e5a2d09-ba93-4513-810b-91a281ec6b50"
+			},
+			{
+				"_id": "Persons/188a0a02-0ada-4505-80a9-509474a97aab",
+				"data": {
+					"linkedin": {
+						"username": "gravitations",
+						"fullname": "Oleg Koefoed",
+						"image": "https://media.licdn.com/dms/image/D4E03AQG26yE2jymimA/profile-displayphoto-shrink_400_400/0/1666977090218?e=1704326400&v=beta&t=c-qIas4UciM5rAOtoO7i7Bj5rIwWp6hbJqckzIgNANo",
+						"loc": "Copenhagen",
+						"url": "https://www.linkedin.com/in/gravitations/"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQHaUiA_6Cj-ag/profile-displayphoto-shrink_100_100/B4DZSR4UqKHYAU-/0/1737614249008?e=1744848000&v=beta&t=u-uN9yLiVJGCj7wUMqx_iD7oyd7ssDpo5yygOkasHp0",
+						"username": "gravitations",
+						"desc": "Founder, Director | Regenerative and collaborative cultures",
+						"loc": "Copenhagen",
+						"fullname": "Oleg Koefoed"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Simona Rossi",
+						"loc": "Netherlands",
+						"desc": "Regen Designer building bridges for unity.",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQGuCRGxub6TKA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1712817924589?e=1729076400&v=beta&t=TCcYrl7QbMBFE6qmDNsdMVi_Kfjq_-Tou1bblRTDolA",
+						"username": "simona-rossi-7a992116"
+					},
+					"linkedin": {
+						"username": "simona-rossi-7a992116"
+					}
+				},
+				"_id": "Persons/436d2d7d-1a1b-4876-8779-125db249049c"
+			},
+			{
+				"_id": "Persons/b267d66b-4701-48f0-bbd1-3b065e4bf6b5",
+				"data": {
+					"profile": {
+						"loc": "Brussels Metropolitan Area",
+						"desc": "",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHqn2NjrgTu0w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1532081543866?e=1730332800&v=beta&t=k1MRVTPiFBFlrGkcXOt_59d8LqHWqmy5jnxRjGoQlvI",
+						"username": "maleroy",
+						"fullname": "Matthieu Leroy"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/maleroy/",
+						"fullname": "Matthieu Leroy  🌄💡🌱",
+						"image": "https://media.licdn.com/dms/image/C4E03AQHqn2NjrgTu0w/profile-displayphoto-shrink_400_400/0/1532081542124?e=1696464000&v=beta&t=usgWWXqTwjh-OqzTNa8jBqzCS9YXvLts1h1CRRjjldU",
+						"loc": "Brussels Metropolitan Area",
+						"username": "maleroy"
+					}
+				}
+			},
+			{
+				"_id": "Persons/811c42f0-36a7-45ea-ac9d-b41fea74fb7d",
+				"data": {
+					"linkedin": {
+						"username": "veronique-letellier-1592031"
+					},
+					"profile": {
+						"desc": "Regenerative Business, Culture & Places",
+						"username": "veronique-letellier-1592031",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQE3Go-1Ku1zag/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650914267326?e=1744848000&v=beta&t=LY6K5AzWxSk6OK9Gfy91odWS87bkN5bxWzTVux_HDy8",
+						"url": "https://www.linkedin.com/in/veronique-letellier-1592031/",
+						"fullname": "Veronique Letellier",
+						"loc": "Greater Paris Metropolitan Region"
+					}
+				}
+			},
+			{
+				"_id": "Persons/d17a8e73-8e82-4441-8a08-dd78dbf66181",
+				"data": {
+					"profile": {
+						"desc": "Social Scientist I Semiotician | Systems Thinker & Philosopher I Writer & Cultural Critic I Conscious Futurist I Mountain Wanderer ᨒ↟↟ᨒ↟ᨒ↟↟ᨒ",
+						"username": "ilariaforte",
+						"loc": "Hamburg",
+						"fullname": "ILARIA FORTE"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/ilariaforte/",
+						"loc": "Hamburg",
+						"username": "ilariaforte",
+						"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+						"fullname": "ILARIA FORTE"
+					}
+				}
+			},
+			{
+				"_id": "Persons/4102466d-051b-4a3a-bbf0-4e1186599dd3",
+				"data": {
+					"profile": {
+						"fullname": "Pierre van Steenberghe",
+						"username": "pierre-van-steenberghe-57a4393",
+						"loc": "Liège",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQH-VgmvaNfgmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1705430861262?e=1740614400&v=beta&t=kXAQJHktMR7lViR5w5EHWyIlqM3FaGedxAbIYGXDkG8",
+						"url": "https://www.linkedin.com/in/pierre-van-steenberghe-57a4393/",
+						"desc": "System Change Catalyst - Regenerative Design Practitioner | Facilitation | Transmission | Conseil"
+					},
+					"linkedin": {
+						"username": "pierre-van-steenberghe-57a4393"
+					}
+				}
+			},
+			{
+				"_id": "Persons/9060c640-4c04-406e-a328-9d032ec7df27",
+				"data": {
+					"linkedin": {
+						"username": "tatjanaharttung"
+					},
+					"profile": {
+						"username": "tatjanaharttung",
+						"desc": "Executive Coach & Mentor I Psychotherapy I Regenerative Leadership I Podcast Host I Organisational Development I Learning Design",
+						"fullname": "Tatjana Harttung",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFE85uSHCnReQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714581055430?e=1740614400&v=beta&t=gCrYB0EbCu4bO88r7NR5sjkEhFnkOqbx1bQG_fAnwqs",
+						"loc": "Sønderborg"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"image": "https://media.licdn.com/dms/image/D4E03AQEoYQXW_LMzXA/profile-displayphoto-shrink_400_400/0/1689594135289?e=1708560000&v=beta&t=lzvY5gqIQTMlCIy8RrPYcn7uOTav7SJw2H2aokYcUuE",
+						"fullname": "Christiane Lellig",
+						"loc": "Morlaix, Brittany, France",
+						"url": "https://www.linkedin.com/in/christiane-lellig-34312b7/",
+						"username": "christiane-lellig-34312b7"
+					},
+					"profile": {
+						"username": "christiane-lellig-34312b7",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEoYQXW_LMzXA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1689594135289?e=1744848000&v=beta&t=jWHWNuj7p3S72ZYYa2wIkDLSKA7fGjFvyoSLdU6oVh8",
+						"fullname": "Christiane Lellig",
+						"loc": "Morlaix",
+						"desc": ""
+					}
+				},
+				"_id": "Persons/f202508f-51fc-4b25-8b12-c2268d047f11"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "valeriecarrette"
+					},
+					"profile": {
+						"loc": "Leuven",
+						"fullname": "Valérie Carrette",
+						"username": "valeriecarrette",
+						"image": "https://media.licdn.com/dms/image/C4D03AQFd-GbYQ-7fKQ/profile-displayphoto-shrink_100_100/0/1606689253517?e=1689206400&v=beta&t=jZLw1sm2GhPWRK6-3YQ0F9yQSQKET9f3VbU8iO95NZI",
+						"desc": "network weaver, ecosystem facilitator, co-creating regenerative practices & earth pilgrim"
+					}
+				},
+				"_id": "Persons/4ada846a-4acc-4edf-aedc-4cf17b5062ad"
+			},
+			{
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/maarten-robben-4857973/",
+						"fullname": "Maarten Robben",
+						"loc": "Utrecht, Utrecht, Netherlands",
+						"desc": "Final Boss Serious Gaming & Simulation at Frisse Blikken",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHd_4v_2sycmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719908815422?e=1740614400&v=beta&t=PA3LABXLSoECxx9c4icW_yfe0YSJXZQd8gFMsFWbO0c",
+						"username": "maarten-robben-4857973"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/maarten-robben-4857973/",
+						"username": "maarten-robben-4857973",
+						"loc": "Utrecht, Utrecht, Netherlands",
+						"fullname": "Maarten Robben",
+						"image": "https://media.licdn.com/dms/image/C4D03AQF7_q3T4kZvvQ/profile-displayphoto-shrink_400_400/0/1558449010281?e=1707955200&v=beta&t=cv4bcpI1UoJVUhqPmsUPbcFas3cKg-78bs-PlrkKhWo"
+					}
+				},
+				"_id": "Persons/6d6861d9-4e8b-426a-aecd-523f9f533351"
+			},
+			{
+				"_id": "Persons/c0ac037b-a050-4b46-8593-3c76972c4767",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/C4D03AQGTffiN8XsMhQ/profile-displayphoto-shrink_100_100/0/1626857050532?e=1726704000&v=beta&t=jF8mVn4-UXspHHTCq1lMSpCZe2HDp6Ohc6dalGMg7lM",
+						"fullname": "Gert van Veldhuisen",
+						"username": "gertvanveldhuisen1",
+						"desc": "business development | impact investment | consultant | serial venture builder | (regenerative) entrepreneurship | board member | Africa",
+						"loc": "Utrecht Area"
+					},
+					"linkedin": {
+						"username": "gertvanveldhuisen1"
+					}
+				}
+			},
+			{
+				"_id": "Persons/68e4f63f-fec2-48dc-a144-24f8174e1d83",
+				"data": {
+					"linkedin": {
+						"username": "pierreabadie"
+					},
+					"profile": {
+						"username": "pierreabadie",
+						"loc": "Greater Paris Metropolitan Region",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEDD5P6hZL6GA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678319712745?e=1738195200&v=beta&t=XNFZrKlnI6lngMYJ9D9vk66pk8q2lPepnSt_JWIdAnU",
+						"fullname": "Pierre Abadie",
+						"desc": "MD Private Equity | Tikehau’s Group Climate Director | Decarbonisation | Regenerative Agriculture | Climate Infrastructure"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "r",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQHAvFLb1LNjsA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1677444392550?e=1743033600&v=beta&t=KIm8VHuWiIX9S8XLWkbSXXv3iSlO-Tb93yb22EjUx9M",
+						"loc": "Brazil",
+						"fullname": "Rômulo P. S. Arantes",
+						"desc": "Forest Engineer | Environmental Consulting | Carbon Origination | Ecological Restoration | Nature Based Solutions | Climate Change | Biodiversity Net Gain | Communities | AFOLU | Regenerative Agriculture"
+					},
+					"linkedin": {
+						"username": "r"
+					}
+				},
+				"_id": "Persons/5c500b2b-d190-494b-ac22-1d229b0c4bc4"
+			},
+			{
+				"_id": "Persons/9e616dea-ce41-4127-a0a0-79d408c6aedd",
+				"data": {
+					"linkedin": {
+						"username": "hdethienne"
+					},
+					"profile": {
+						"username": "hdethienne",
+						"desc": "Regenerative Entrepreneur, GUBERNA Certified Director, Board Member, Executive Management Advisor, Executive Interim Manager - Strategy, Organisation, Finance, IT, Regenerative & Circular Economy",
+						"loc": "Limal",
+						"fullname": "Hugues Dethienne",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQE-mxWi0uvu2w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1605001749307?e=1744848000&v=beta&t=B_1ryBg_TMI2qcyLQ7fNARmKBonUlaWbCUxHixhchD0"
+					}
+				}
+			},
+			{
+				"_id": "Persons/43c4b718-947f-4364-a8f0-8d6a5fcf47b9",
+				"data": {
+					"linkedin": {
+						"username": "christine-cleemann"
+					},
+					"profile": {
+						"fullname": "Christine Cleemann 🌱",
+						"image": "https://media-exp2.licdn.com/dms/image/C4E03AQGhj3C1QcKSHg/profile-displayphoto-shrink_100_100/0/1653460793364?e=1661990400&v=beta&t=Oiulg_NSjcl4GZ5_nuPl6IoeXJdDvjZ3hpkcRfvIbkE",
+						"desc": "Stewarding regenerative business leadership",
+						"username": "christine-cleemann",
+						"loc": "Copenhagen Metropolitan Area"
+					}
+				}
+			},
+			{
+				"_id": "Persons/42f0532e-aae2-442d-8024-fac42135269a",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEpJD1m5xRU7g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1674831805820?e=1740614400&v=beta&t=BOCnykopeSxD9htGokkyIfixhP6s4QGdXziTCB-ieL0",
+						"username": "thieu",
+						"loc": "Amsterdam",
+						"fullname": "Thieu Besselink",
+						"desc": "Director @Townmaking: R&D urban commons | Utrecht University: Regenerative Development | Academy of Place"
+					},
+					"linkedin": {
+						"fullname": "Thieu Besselink",
+						"url": "https://www.linkedin.com/in/thieu/",
+						"loc": "Amsterdam",
+						"username": "thieu",
+						"image": "https://media.licdn.com/dms/image/D4E03AQEpJD1m5xRU7g/profile-displayphoto-shrink_400_400/0/1674831803017?e=1695859200&v=beta&t=NqFWyNr1w7FA-lwZYfUVY7RItU6jWNPzVCzBK15nNqQ"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "felicevandersandt",
+						"fullname": "Felice van der Sandt",
+						"loc": "Amsterdam",
+						"desc": "Regenerative Business | Concept Development | Coach"
+					},
+					"linkedin": {
+						"username": "felicevandersandt"
+					}
+				},
+				"_id": "Persons/275df189-b9d5-4426-9b38-517c4a21e1f3"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "tine-huge-314449",
+						"image": "https://media.licdn.com/dms/image/D4E03AQETyubZbKbFsg/profile-displayphoto-shrink_100_100/0/1694787053669?e=1725494400&v=beta&t=0XLD0eZSAvmSXauHR-3JRMnEoJ4oXmMbP1_m_53luVk",
+						"desc": "Leading conscious transformation / Regenerative Leadership / Huge-by-Heart / You Are Medicine / workshops / Keynote facilitator / WE:treat / + 20 year of experience / BOOK A FREE SESSION",
+						"fullname": "Tine Huge",
+						"loc": "Copenhagen"
+					},
+					"linkedin": {
+						"username": "tine-huge-314449"
+					}
+				},
+				"_id": "Persons/376f541d-772d-43ad-a00f-0cecc4b8b284"
+			},
+			{
+				"_id": "Persons/3238568c-dbb1-40ec-866a-bb453d3565b8",
+				"data": {
+					"profile": {
+						"username": "kirsten-stendevad-training-frontrunners-in-future-leadership-0933993",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQFQcSTLVQwLnQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516302762685?e=1738195200&v=beta&t=hqpgP5UYqnTmJw194-pILoO0lSH96eDeFKbGBhd93BE",
+						"desc": "Futureproofing C-level | Activating Skillset for Future-fitness in Leaders & Teams| Keynote Speaker | 20+ yrs experience | 8 x Bestselling Author | DEIB Visionary| Regenerative Catalyst | From Crisis to Quantum Leap",
+						"loc": "Copenhagen",
+						"fullname": "Kirsten Stendevad 💡"
+					},
+					"linkedin": {
+						"username": "kirsten-stendevad-training-frontrunners-in-future-leadership-0933993"
+					}
+				}
+			},
+			{
+				"_id": "Persons/30176e16-020b-4382-a204-1a344ef05a60",
+				"data": {
+					"linkedin": {
+						"username": "lisalena-h-738597134"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFVX0jd1mTtKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704466448271?e=1733356800&v=beta&t=j7-ISlasv-l4NHIoEMV0Pj18JgCJsTTpYGXPnpfjTEw",
+						"loc": "Brasschaat, Flemish Region, Belgium",
+						"username": "lisalena-h-738597134",
+						"fullname": "LisaLena H.",
+						"url": "https://www.linkedin.com/in/lisalena-h-738597134/",
+						"desc": "Belgium"
+					}
+				}
+			},
+			{
+				"_id": "Persons/e852a20b-c17f-41de-8267-e81b7c22eea7",
+				"data": {
+					"linkedin": {
+						"username": "christa-breum-amh%C3%B8j-2214ba39"
+					},
+					"profile": {
+						"desc": "Action University// Keynote Speaker// Helping organizations to thrive //Communities //Localism //Regenerative Sustainability// External Lecture Copenhagen Business School and DTU, PhD in management technologies",
+						"username": "christa-breum-amh%C3%B8j-2214ba39",
+						"fullname": "Christa Breum Amhøj",
+						"image": "https://media.licdn.com/dms/image/D4E03AQE--PHTJ79nZQ/profile-displayphoto-shrink_100_100/0/1690456721445?e=1727308800&v=beta&t=Sxvowgp9oIUreRrh-jnUiIpWu8EDxXK6DhB7GzdGyCY",
+						"loc": "Copenhagen"
+					}
+				}
+			},
+			{
+				"_id": "Persons/293ef502-5ee6-4965-b862-5100031fbe6f",
+				"data": {
+					"profile": {
+						"desc": "Founder and Director of Future Navigators® - a Certified B Corp / Strategy and Leadership Development for Better Business and a Better Future / Author / Nordic B Leader / IDG Ambassador",
+						"loc": "Greater Malmö Metropolitan Area",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQGMRqUtyvv16A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710607503066?e=1737590400&v=beta&t=5foZ8qISt8kC6pwim7v_4IMze6solkI6cb8BVE8_3UE",
+						"fullname": "Elisabet Lagerstedt",
+						"username": "elisabetlagerstedt"
+					},
+					"linkedin": {
+						"username": "elisabetlagerstedt",
+						"url": "https://www.linkedin.com/in/elisabetlagerstedt/",
+						"loc": "Greater Malmö Metropolitan Area",
+						"fullname": "Elisabet Lagerstedt",
+						"image": "https://media.licdn.com/dms/image/D4D03AQEQXLwLQa29hw/profile-displayphoto-shrink_400_400/0/1695628367713?e=1704326400&v=beta&t=mUBYEOAWTZUZ7FbTcQ4Mn2uASTdK7WssgcNkAnsHEP0"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "starglide"
+					},
+					"profile": {
+						"desc": "design in policy, art as policy | strategic design, regenerative practices",
+						"fullname": "Alessandro Rancati",
+						"loc": "Overijse",
+						"username": "starglide",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHI-PQuSa6hyQ/profile-displayphoto-shrink_100_100/B4EZQMKdYeHkAU-/0/1735370856604?e=1741219200&v=beta&t=kd6SkrktfLrtoN571hY_tbyF__w8UFGvJk9c5tj_uPs"
+					}
+				},
+				"_id": "Persons/1ed9826d-d436-493a-9680-79425beaa53f"
+			},
+			{
+				"data": {
+					"profile": {
+						"loc": "Amsterdã",
+						"fullname": "Gunter Wehmeyer",
+						"desc": "Bio-Leadership, Ecocentric Design and Regenerative Coaching | PhD Design MMU | Bioleadership Fellow 2021",
+						"username": "gunterwehmeyer",
+						"image": "https://media-exp2.licdn.com/dms/image/C4E03AQEH_rI4TKUJKw/profile-displayphoto-shrink_100_100/0/1655717037387?e=1662595200&v=beta&t=rgSZAGIY4K1kT-UewlTCkaKud0ei9Sr5vb2-isbMzBg"
+					},
+					"linkedin": {
+						"username": "gunterwehmeyer"
+					}
+				},
+				"_id": "Persons/0d97a16a-b06c-4886-8aec-ae0ef28f6eae"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "emmanuelbaeten"
+					},
+					"profile": {
+						"loc": "Brussels Metropolitan Area",
+						"username": "emmanuelbaeten",
+						"fullname": "Emmanuel Baeten",
+						"image": "https://media.licdn.com/dms/image/v2/C5103AQG6mTcnql4gBA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516228821549?e=1744848000&v=beta&t=M_hL-kwOmuQfV6Vj3sJSV-4M89aemek0o5YE3I4Njyk",
+						"desc": "An entrepreneurial approach to regenerative agrofood and waste management"
+					}
+				},
+				"_id": "Persons/07150201-6bd3-46c2-9779-68b8186fab4c"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "annegienblokpoel"
+					},
+					"profile": {
+						"loc": "Amsterdam",
+						"desc": "Board advisor, regenerative & catalyst investor, angel operator, strategy & capital raising. Investment theme\" Needed Societal Change & Regenerative Technologies\", for impact that truly matters.",
+						"fullname": "Annegien Blokpoel",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQF8_5IUp3-_Zg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694163241852?e=1730937600&v=beta&t=JyNIQzVoOJ64dWJ24Ho7cVQ_xWC7aEZx47WjTq8EL3M",
+						"username": "annegienblokpoel"
+					}
+				},
+				"_id": "Persons/c5829f12-ec82-4e71-b4fe-5026e9723fe7"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "silje-er%C3%B8y-sollien-21a08b6"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/silje-er%C3%B8y-sollien-21a08b6/",
+						"username": "silje-er%C3%B8y-sollien-21a08b6",
+						"image": "https://media.licdn.com/dms/image/D4E03AQGgdAIPARw6Zw/profile-displayphoto-shrink_100_100/0/1681304710278?e=1727308800&v=beta&t=Ibwwy1DlVAYHH7xuINviF-r3Hz8bprv-bEETp2lsBts",
+						"loc": "Copenhagen",
+						"desc": "Alternative Architectural Ecologies, Ph.D",
+						"fullname": "Silje Erøy Sollien"
+					}
+				},
+				"_id": "Persons/e7e66b39-3982-4f7a-85ef-09763cbc1ef7"
+			},
+			{
+				"_id": "Persons/e70ec8d0-5b20-49bc-b376-26a349f4bc03",
+				"data": {
+					"linkedin": {
+						"loc": "Amsterdam",
+						"url": "https://www.linkedin.com/in/willem-ferwerda-1540135/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQH31o0dYCE1fA/profile-displayphoto-shrink_400_400/0/1685899333686?e=1703721600&v=beta&t=P7R_LnJolZ3A4hwkRVjzN_bJkF3kGCeXUnhVbQFXmPA",
+						"username": "willem-ferwerda-1540135",
+						"fullname": "Willem Ferwerda"
+					},
+					"profile": {
+						"loc": "Amsterdam",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQH31o0dYCE1fA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1685899335180?e=1743033600&v=beta&t=8O3vbbWDtXQFjkAmStvsMokI4xNr3z-tA1LZzPXXflo",
+						"url": "https://www.linkedin.com/in/willem-ferwerda-1540135/",
+						"fullname": "Willem Ferwerda",
+						"username": "willem-ferwerda-1540135",
+						"desc": ""
+					}
+				}
+			},
+			{
+				"_id": "Persons/df7ea8bc-dcd7-48b2-94d7-f82fba81f89c",
+				"data": {
+					"linkedin": {
+						"username": "tanyalindkvist"
+					},
+					"profile": {
+						"username": "tanyalindkvist",
+						"loc": "Copenhagen",
+						"image": "https://media.licdn.com/dms/image/C4D03AQEi_E2432BRMA/profile-displayphoto-shrink_100_100/0/1570170232979?e=1727308800&v=beta&t=vh7a5hlQZFBmSlaLch-4ByqRbk8SBa74KP3czgh8pQU",
+						"desc": "Director KPA, Board Member, Speaker, Regenerative Leadership & Cyclic workdesign",
+						"fullname": "Tanya Lindkvist"
+					}
+				}
+			},
+			{
+				"_id": "Persons/dd896229-ad3d-46d3-87ef-d43d6caf4e9d",
+				"data": {
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/kristoffer-ronn-andersen-229a5030/",
+						"loc": "Rønne",
+						"image": "https://media.licdn.com/dms/image/C5603AQHGTT3DWbNyiw/profile-displayphoto-shrink_400_400/0/1562312945834?e=1698278400&v=beta&t=U6llr9MA8u1RI9DSl3jKEW_32F_OgYfZX3b1I0oayp0",
+						"username": "kristoffer-ronn-andersen-229a5030",
+						"fullname": "Kristoffer Rønn-Andersen"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQHGTT3DWbNyiw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1562312947594?e=1740614400&v=beta&t=hDOTQQll1BJseZh8hSwIJtuDrFWGKofRaa9upQvyRL8",
+						"loc": "Odense",
+						"fullname": "Kristoffer Rønn-Andersen",
+						"desc": "",
+						"username": "kristoffer-ronn-andersen-229a5030"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "dominic-dibble-13512b34"
+					},
+					"profile": {
+						"desc": "Regenerative Inquirer, former Co-ordinator at World Goodwill || Seeking richer questions to guide us towards a regenerative future.",
+						"fullname": "Dominic Dibble",
+						"username": "dominic-dibble-13512b34",
+						"loc": "Bodegraven",
+						"image": "https://media-exp1.licdn.com/dms/image/D4E35AQEc67gmHNUVeg/profile-framedphoto-shrink_100_100/0/1652252172059?e=1667228400&v=beta&t=hPWK6EL_a3CT6h_zQJwje67vsZqedCQJu305WHq5CHs"
+					}
+				},
+				"_id": "Persons/d4daba35-ae95-4c82-a63c-69c58436d7ab"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "vincenttruyens",
+						"desc": "Impact Governance | CSR Lecturer | B Leader | Executive & Board Sparring Partner | Circulab Community Member | Born 89 ppm earlier",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHetOrsm1XIhg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1577955571130?e=1738800000&v=beta&t=M-dDP0a5xarpG0ULl1u2yAcB7i4BUCgqHB4dCRCALjM",
+						"fullname": "Vincent Truyens",
+						"loc": "Brussels Metropolitan Area"
+					},
+					"linkedin": {
+						"loc": "Brussels Metropolitan Area",
+						"username": "vincenttruyens",
+						"image": "https://media.licdn.com/dms/image/C4E03AQHetOrsm1XIhg/profile-displayphoto-shrink_400_400/0/1577955569298?e=1696464000&v=beta&t=XEK2ChtA7a4rVEIqInrkZ0kv3WY8IcppnHZbXZTfL2E",
+						"fullname": "Vincent Truyens",
+						"url": "https://www.linkedin.com/in/vincenttruyens/"
+					}
+				},
+				"_id": "Persons/d2df225e-dd54-4d88-97d0-93677ebd1e75"
+			},
+			{
+				"_id": "Persons/d0507152-2fc8-484c-bf5b-74b7e7da5d4b",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHWLHMWYfm8gw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1691861579031?e=1738195200&v=beta&t=k2RkAw8oUQ20qQycpWOQlmzFz0iZeUl9eqf8u5Ve-ls",
+						"desc": "Regenerative Guide, Shamanic Healer, Earthkeeper & Templekeeper",
+						"fullname": "Vincent Deinum",
+						"username": "vincentdeinum",
+						"loc": "Amsterdam"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/vincentdeinum/",
+						"username": "vincentdeinum",
+						"image": "https://media.licdn.com/dms/image/C4E03AQHxZiyZ3rQtNA/profile-displayphoto-shrink_400_400/0/1656972440524?e=1696464000&v=beta&t=o-74WH-75FiJzFySRYuDaXJF9ol3n_TGS1FyZYihbk0",
+						"fullname": "Vincent Deinum"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Isabelle Denaro",
+						"username": "isabelle-denaro",
+						"loc": "Farum",
+						"desc": "Filmmaker | Director | Documentarist | Writer | Producer | Known for \"The Nature of Farming\" documentary film about regenerative agriculture | Motto: \"Beauty is a door to love and love the door to all\"",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFmzs8EWp5aAA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516285262311?e=1729728000&v=beta&t=T_8SgMbqHEH7g6gNIMPOZksY02pDqDSW5webpvAj3NM"
+					},
+					"linkedin": {
+						"username": "isabelle-denaro"
+					}
+				},
+				"_id": "Persons/cc286435-95d7-4e43-b281-c56e9198dbc4"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "20+ years in Sustainability | Climate Finance | Impact Blockchain | Public Speaker | Skilled Facilitator",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQF4Zh7jDYezbw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516250224179?e=1737590400&v=beta&t=fNDXuF_GHlBU0DNncxSw5hTP1oO2--kDmrSkhlXDKlk",
+						"username": "jeannebloch",
+						"loc": "Paris",
+						"fullname": "Jeanne BLOCH"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/jeannebloch/",
+						"username": "jeannebloch",
+						"fullname": "Jeanne BLOCH",
+						"loc": "Paris",
+						"image": "https://media.licdn.com/dms/image/C5603AQF4Zh7jDYezbw/profile-displayphoto-shrink_400_400/0/1516250223746?e=1696464000&v=beta&t=2APRcOZZf-qZuc6kDDsHw7ZgnqWQpVrfHsbuuf5QsJc"
+					}
+				},
+				"_id": "Persons/c5f71f5b-4250-46bb-9f65-1bcbc73441ea"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "stephan-g-hoornaert-1158306"
+					},
+					"profile": {
+						"fullname": "Stephan G. Hoornaert",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQHGq-u1RIUX9A/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1729604801302?e=1734307200&v=beta&t=FouDfZB4ZxZNAYSRJyuh4eaO__wHg7Q6ds0GIOL8N54",
+						"username": "stephan-g-hoornaert-1158306",
+						"desc": "Molecular biologist, Biomimetician (aka Nature-Based Solutions provider), Circular & Regenerative Economy expert & professor, Observer at Moon Village Association, prospectivist, fire-keeper",
+						"loc": "Liège"
+					}
+				},
+				"_id": "Persons/84ecf7f3-04ca-411d-b679-d5f0aa9eec0f"
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEeFg35BP_rUg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710874782202?e=1744848000&v=beta&t=FR6UNazrB1D6X6NIPbrCSBjL3UnIpBqO73FHXFYoB-I",
+						"fullname": "Pascale Guiffant",
+						"desc": "Entrepreneure - Co-fondatrice @Open Lande - Economie Régénérative",
+						"username": "pascaleguiffant",
+						"loc": "Nantes"
+					},
+					"linkedin": {
+						"username": "pascaleguiffant"
+					}
+				},
+				"_id": "Persons/bafb736e-a72f-496e-8f02-267dfa5873ae"
+			},
+			{
+				"_id": "Persons/b9228e05-8290-4f6a-8284-79cd81d53e27",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/C4E03AQHn14gp6b-sYA/profile-displayphoto-shrink_100_100/0/1662707861658?e=1727308800&v=beta&t=8xeYsZGJ50eyhDJ_FPaj40ABGkV5wM4c1bS4jDnbK3s",
+						"desc": "Founder | Advocate | Speaker | Accelerating healthy soil through regenerative agriculture | Working for a responsible food system",
+						"loc": "Copenhagen",
+						"fullname": "Cindie Christiansen",
+						"username": "cindie-ch"
+					},
+					"linkedin": {
+						"username": "cindie-ch"
+					}
+				}
+			},
+			{
+				"_id": "Persons/b0e4c471-8b36-48dd-bf34-6e68947b3196",
+				"data": {
+					"linkedin": {
+						"loc": "Porto",
+						"url": "https://www.linkedin.com/in/bernd-herbert-frsa-246a35/",
+						"image": "https://media.licdn.com/dms/image/C4D03AQFmr9SezpvRVQ/profile-displayphoto-shrink_400_400/0/1624022018364?e=1698278400&v=beta&t=yVVavmPJtsNu_8jJiHFX0vu9yCriX3dFR9GetFjbT_4",
+						"fullname": "Bernd Herbert FRSA",
+						"username": "bernd-herbert-frsa-246a35"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/C4D03AQFmr9SezpvRVQ/profile-displayphoto-shrink_100_100/0/1624022018662?e=1715817600&v=beta&t=IkaVCU3JKqLPiVBmNUSTvj3mmKi2jfmRZjo5ng01xVw",
+						"desc": "Business Coach Strategic Business Design & Systemic Sustainability for Brave Leaders",
+						"username": "bernd-herbert-frsa-246a35",
+						"fullname": "Bernd Herbert FRSA",
+						"loc": "Porto"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/thogenhaven/",
+						"username": "thogenhaven",
+						"desc": "Managing Partner at Planetary Impact Ventures, PhD",
+						"fullname": "Thomas Høgenhaven",
+						"loc": "Copenhagen",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEqQRg8i4yf4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722507476448?e=1737590400&v=beta&t=U0pbyuUxpO2Xfy2eJ2GZ3NVLti5IY_6NLrPaTIUmsYE"
+					},
+					"linkedin": {
+						"username": "thogenhaven"
+					}
+				},
+				"_id": "Persons/8ba89444-b63c-4444-b604-ada791b14615"
+			},
+			{
+				"_id": "Persons/c5c19800-59bf-4018-b165-f52d15e42f94",
+				"data": {
+					"profile": {
+						"loc": "Roskilde",
+						"fullname": "Britta Ravn Bjerglund",
+						"desc": "Taking a break to practice a more regenerative life",
+						"username": "brittaravn",
+						"image": "https://media-exp1.licdn.com/dms/image/C4D03AQG3t6MIfmAiTg/profile-displayphoto-shrink_100_100/0/1519294430696?e=1660176000&v=beta&t=SCYz5ZHO7ACn2mtuQm90gk3xdqv8ZEKTUy9KEUZNzFw"
+					},
+					"linkedin": {
+						"username": "brittaravn"
+					}
+				}
+			},
+			{
+				"_id": "Persons/dd6ceee0-e2db-429f-84eb-4a5275a2adaa",
+				"data": {
+					"profile": {
+						"fullname": "Weruschca Kirkegaard",
+						"desc": "Co-Founder United Designers.org. Owner Mūla - Ecosystems by Design.",
+						"username": "weruschca-kirkegaard",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGua0GeKUFkyw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629620314743?e=1745452800&v=beta&t=3Enyl0fRpYiQB7IQvBo2Q79DlF5VthfvgiVaU3PP7T0",
+						"loc": "Renkum"
+					},
+					"linkedin": {
+						"username": "weruschca-kirkegaard",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGua0GeKUFkyw/profile-displayphoto-shrink_400_400/0/1629620313353?e=1698883200&v=beta&t=JTzZFQsBf6J4nLZuhkW5-vcIHBzRcnhbcmmq2grWSNM",
+						"url": "https://www.linkedin.com/in/weruschca-kirkegaard/",
+						"loc": "Renkum",
+						"fullname": "Weruschca Kirkegaard"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHRemgkQTXCnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655215375192?e=1745452800&v=beta&t=AmICLnVcrDPZwBZJdIbSIQ25Rq7ZAw1qf674pBnFvw8",
+						"loc": "Hamburg",
+						"username": "dianabeatakrueger",
+						"desc": "CoFounder at MOTHERLAND / Regenerative Ecosystem Orchestrator in Africa / Ana & Manu / Serving planet & people / Community Development East Africa /",
+						"fullname": "Diana Beata Krueger"
+					},
+					"linkedin": {
+						"username": "dianabeatakrueger"
+					}
+				},
+				"_id": "Persons/f0850d59-eb39-4ce4-b4e8-dd63439eccff"
+			},
+			{
+				"_id": "Persons/f2b1619f-3257-4108-a764-14162c1cdecb",
+				"data": {
+					"profile": {
+						"desc": "",
+						"loc": "Amsterdam",
+						"fullname": "Paul Hughes",
+						"username": "paul-hughes-live",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQEb44t7jXfxXw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654008681509?e=1745452800&v=beta&t=gxai0x0RBMWlumRl8WyOomdnD23Dv88yoz3ibV2yq6M"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/paul-hughes-live/",
+						"username": "paul-hughes-live",
+						"loc": "Amsterdam",
+						"image": "https://media.licdn.com/dms/image/C4E03AQEb44t7jXfxXw/profile-displayphoto-shrink_400_400/0/1654008680787?e=1696464000&v=beta&t=I5aE0fZ2CWlU3HFgCRc3XVR_zSwKNlB04d5RIhTVx1U",
+						"fullname": "Paul Hughes"
+					}
+				}
+			},
+			{
+				"_id": "Persons/f711b8cd-a28e-4fe1-9f45-34dfa0c459dd",
+				"data": {
+					"profile": {
+						"loc": "Antwerp Metropolitan Area",
+						"username": "jan-de-visch-469580",
+						"fullname": "Jan De Visch",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQECWkIEQcCC-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1523363442978?e=1744848000&v=beta&t=XYDG71QuTDPYwYIbVMO3sOxmBEkZLOxwf4cScLM3X0g",
+						"desc": "Organizational capital thought leadership. Regenerative transformation. Facilitates complex change processes. Co-creates collaborative intelligence. Author."
+					},
+					"linkedin": {
+						"username": "jan-de-visch-469580"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Andrea (Ada) Friedrich",
+						"username": "adafriedrich",
+						"desc": "Facilitating inner, interpersonal and systemic transformation | Biz Strategist & Founder Advisor @The Essence Of | Regenerative Investment & Indigenous Wisdom @Global Impact Alliance | Speaker & Facilitator | Mom of 2",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQF1UBGvbTIoJA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581382355009?e=1744848000&v=beta&t=CbWeGgVd-2-YuDj6UjlAgVQu5Wi-M7L03hOjWlW465I",
+						"loc": "Greater Hamburg Area"
+					},
+					"linkedin": {
+						"username": "adafriedrich"
+					}
+				},
+				"_id": "Persons/3aea5e77-971a-427d-a2a9-b9deb2a34893"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "mariana-wongtschowski-b2111530"
+					},
+					"profile": {
+						"desc": "Director Caring for the Earth, at Porticus",
+						"url": "https://www.linkedin.com/in/mariana-wongtschowski-b2111530/",
+						"fullname": "Mariana Wongtschowski",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQEPe477AuVKng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596051612496?e=1743638400&v=beta&t=sLNB0ykz46mitUr2GkbpC5B6iE0u_ZCemA87E6A_mos",
+						"username": "mariana-wongtschowski-b2111530",
+						"loc": "Utrecht"
+					}
+				},
+				"_id": "Persons/8630a85a-70c0-4795-81f4-a15b3440ac54"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "pmheilmann",
+						"url": "https://www.linkedin.com/in/pmheilmann/",
+						"loc": "Netherlands",
+						"image": "https://media.licdn.com/dms/image/C4E03AQGSI3RhkZpACw/profile-displayphoto-shrink_400_400/0/1664020854680?e=1698278400&v=beta&t=Ky5IIqGdmYcpu4p4jOkYSfgvlvyxw-Oh4ONrrM75UzQ",
+						"fullname": "Peter Michel Heilmann"
+					},
+					"profile": {
+						"fullname": "Peter Michel Heilmann",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHKV7AnZG2Mow/profile-displayphoto-shrink_100_100/B4EZP1k2KKHAAU-/0/1734991897841?e=1743638400&v=beta&t=NiA8zk7rzSMXU_rCzznVwgTUg9fXC73QPWfRNJKY9_4",
+						"desc": "New Earth | Transformative, Regenerative and Collaborative Systems Change 🌿",
+						"username": "pmheilmann",
+						"loc": "Netherlands"
+					}
+				},
+				"_id": "Persons/c9e64b6d-e0da-46ed-9fb8-18bbf349eb76"
+			},
+			{
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/charlesvandekerkhof/",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQEC-zHGalGk0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1639645559331?e=1743033600&v=beta&t=7j4A9vCznuwOopRrNsRE5BmFFtorkWBjOawBUTmCYyk",
+						"loc": "Lund",
+						"username": "charlesvandekerkhof",
+						"fullname": "Charles van de Kerkhof",
+						"desc": "Regenerative Development in Tourism, Agriculture, Education, Biodiversity, Leadership and Entrepreneurship."
+					},
+					"linkedin": {
+						"username": "charlesvandekerkhof"
+					}
+				},
+				"_id": "Persons/049090f3-b910-433d-bd44-3809122e603b"
+			},
+			{
+				"_id": "Persons/ba774c9b-2844-46b5-bc59-d04788574409",
+				"data": {
+					"linkedin": {
+						"username": "corinnemoser"
+					},
+					"profile": {
+						"desc": "* Currently taking a regenerative break *",
+						"username": "corinnemoser",
+						"loc": "Brussels",
+						"fullname": "Corinne Moser",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQF6NsFyFwXjZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1620651851856?e=1743033600&v=beta&t=K30Y5I_RxBvZh_YbqgnnNuFEFS5Smayeve2dGHgp2lg"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Cracking the 'business case of sustainability': my career's golden thread. Currently helping others to access their carbon potential through carbon markets with a focus on Nature Based Solutions and Regen Agriculture.",
+						"fullname": "Geert Eenhoorn",
+						"loc": "Heemstede",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGoDot1Gp1VaQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699541438225?e=1738195200&v=beta&t=TEnfNOZteFxk9TnrWqSQymuK0y33JnwgfvkIT-Eql2I",
+						"username": "geerteenhoorn"
+					},
+					"linkedin": {
+						"username": "geerteenhoorn"
+					}
+				},
+				"_id": "Persons/7c237261-d8c6-413d-8667-9031639022aa"
+			},
+			{
+				"_id": "Persons/c3969b7b-9ac8-44d0-b1be-fa2ea2138889",
+				"data": {
+					"profile": {
+						"loc": "The Randstad, Netherlands",
+						"username": "dirkvanderbeek",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQE6a6r3t6Bakw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1636211329788?e=1738195200&v=beta&t=EZFKNbD5sLeeJn6sl3LoahHFYvBJN3CYV5ACjNgHnns",
+						"fullname": "Dirk Van Der Beek",
+						"desc": "co creating regenerative regional food systems - humanising business - entrepreneur"
+					},
+					"linkedin": {
+						"username": "dirkvanderbeek"
+					}
+				}
+			},
+			{
+				"_id": "Persons/e80648a2-e699-41bd-a153-ef6d79551a49",
+				"data": {
+					"profile": {
+						"username": "laura-haverkamp-9561b19",
+						"loc": "Hamburg",
+						"fullname": "Laura Haverkamp",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQFO3UYf-FIvsQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1653824206353?e=1738195200&v=beta&t=AZNV46LjNRtSGzi9GgkL6TU0blYFJ-hv4IKbiMJghi4",
+						"desc": "Bridgebuilder working towards a regenerative world | alv foundation | SEND e.V. Hamburg | ThinkTank 30 Alumna"
+					},
+					"linkedin": {
+						"username": "laura-haverkamp-9561b19"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEH0ef4ZBe3Ng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1712576457852?e=1738195200&v=beta&t=6ORXTSy5zffwYGci092c8KjljjskZfIRra8jCd2uVgU",
+						"username": "mohamed-mnif-3b8b9698",
+						"desc": "Working at the intersection of sustainability, tech and humanity. Building communities and driving innovation to create a more transparent, greener, and regenerative future 🌱",
+						"loc": "Amsterdam Area",
+						"fullname": "Mohamed Mnif"
+					},
+					"linkedin": {
+						"username": "mohamed-mnif-3b8b9698"
+					}
+				},
+				"_id": "Persons/c64bb528-6517-4059-adb5-ff9ec76f559d"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "carolinacwendling",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEm80jVIkNqeA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715891210163?e=1741824000&v=beta&t=ao-VmujmUEPf__Be62luPmLo9L52bxRuZ_bvC3rTBgk",
+						"desc": "Business developer for Regenerative Futures",
+						"fullname": "Carolina Wendling",
+						"loc": "Paris"
+					},
+					"linkedin": {
+						"username": "carolinacwendling"
+					}
+				},
+				"_id": "Persons/0514aab9-4d24-451f-9166-aa24ad9670e1"
+			},
+			{
+				"_id": "Persons/269aed2d-37de-4e99-b865-7dffe1147fe6",
+				"data": {
+					"linkedin": {
+						"username": "anavalenzuelaz"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/anavalenzuelaz/",
+						"username": "anavalenzuelaz",
+						"fullname": "Ana Valenzuela",
+						"desc": "Making regenerative agriculture work for your agave plantations. Agaveculture Academia. Committed to evaluating and assisting in creating exceptional agave spirits worldwide.",
+						"loc": "Ukkel, Brussels Region, Belgium"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "philipp-litzenberger",
+						"desc": "Helping CEOs to architect their vision, tech teams to release continuously, and save money while being regenerative | Founder @bendcircular",
+						"fullname": "Philipp Litzenberger",
+						"loc": "Greater Hamburg Area",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHjAa-2A42Uyg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715764248728?e=1733356800&v=beta&t=YhHDfq5ZTrS-l2LrC84KZ4LnwpKdE1eqyYE0zmaPRgw"
+					},
+					"linkedin": {
+						"username": "philipp-litzenberger"
+					}
+				},
+				"_id": "Persons/a540dcf3-9921-4b7c-b3d9-30b3a652f8a4"
+			},
+			{
+				"_id": "Persons/67c6daf3-d5b3-4d48-90e1-b8946be306c3",
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/dorinevanderwijk/",
+						"fullname": "Dorine van der Wijk",
+						"loc": "The Randstad, Netherlands",
+						"username": "dorinevanderwijk",
+						"desc": "Human Being in progress | People, System and Flow Detective |  Shifting the paradigm to a world that is beneficial for all beings"
+					},
+					"linkedin": {
+						"username": "dorinevanderwijk"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jacob-rask-b4b805139"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGQVgi3KTFuqw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660132874206?e=1733356800&v=beta&t=jqNOQMFyw073RSnIQJt_zs2w2qIrOCbEmSGwso8Vxqw",
+						"desc": "Director, Regenerative Built Environment Network at BLOXHUB - Author - Ecological Economics - Ekstern lektor, Samfundsøkonomi, Roskilde Universitet - Copenhagen Doughnut - Bestyrelsesarbejde",
+						"username": "jacob-rask-b4b805139",
+						"fullname": "Jacob Rask",
+						"loc": "Copenhagen"
+					}
+				},
+				"_id": "Persons/2f994df8-9c86-495b-9540-801fdd492cce"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "martina-mettgenberg-lemiere-phd"
+					},
+					"profile": {
+						"desc": "#finance à impact social #Impactfinance #impactmanagement #regenerative #agriculture #Europe #womaninsocialfinance",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEYDbSGU_YF2w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707037078937?e=1737590400&v=beta&t=1m64CtUEixNTGqa2qjtjJJIVIIpuxgvj5D5o6JbgnBU",
+						"username": "martina-mettgenberg-lemiere-phd",
+						"fullname": "Martina Mettgenberg Lemière, PhD",
+						"loc": "Rennes"
+					}
+				},
+				"_id": "Persons/43f36b5c-750d-46af-87c3-8965d1b5ab3b"
+			},
+			{
+				"_id": "Persons/26816c1c-1785-4380-92ee-7a4f53b81b7b",
+				"data": {
+					"linkedin": {
+						"username": "courtneysavielawrence"
+					},
+					"profile": {
+						"loc": "Paris",
+						"fullname": "Courtney Savie Lawrence",
+						"desc": "Inclusive Climate Innovation | Climate Tech | Sustainable x Regenerative Development | Ecosystem Collaborations | Systemic Design | Climate Insider 20 Women leading Climate Tech & Innovation 2024",
+						"username": "courtneysavielawrence",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEA8MxO8_RXKA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1691758660535?e=1738195200&v=beta&t=au8UkNRjSkQHs5Q50DmewR5Stzd2FCtcaFxJsf3rx-8"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"loc": "Porto Metropolitan Area",
+						"username": "mohalhaifi",
+						"desc": "Founder & Regenerative Growth Director | Join our G4G Newsletter to enjoy free Regenerative GTM resources, guides, offers & events",
+						"fullname": "🦓 Moh Al-Haifi",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFyI4SLg9pCNA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730312204040?e=1738195200&v=beta&t=SXhW3PbvXLgDnVDLX7w3goWZNOe4pXQqocqFbKDcSso"
+					},
+					"linkedin": {
+						"username": "mohalhaifi"
+					}
+				},
+				"_id": "Persons/87442578-c948-4326-acaa-e41d327512d7"
+			},
+			{
+				"_id": "Persons/6227831c-4343-4906-880a-74084f0d8ae5",
+				"data": {
+					"linkedin": {
+						"username": "emiliegrau"
+					},
+					"profile": {
+						"username": "emiliegrau",
+						"fullname": "Emilie Grau",
+						"desc": "Regenerative Business Co-weaver 💚 Coach, Consultant, Facilitator, Artist. Slow and holistic entrepreneurship.",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGIkQHvo91hMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719421233557?e=1738195200&v=beta&t=elzXafL4shX44sSBfExivGJdvwdhLl0lwfGYAG1WfmM",
+						"loc": "Roquecor"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "johanna-buss-changemakerin"
+					},
+					"profile": {
+						"loc": "Copenhagen",
+						"fullname": "Johanna Buss",
+						"desc": "COO I Passionate about our future & regenerative practices I Curious & continuously (un-)learning I Selfagency I Climate Fresk Facilitator 🌍 I The Week Host 🌱",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFwJI54qw9VOQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710185290411?e=1738195200&v=beta&t=vlRVMkysu706su3I3zKfnAua1u2HbLtknmyQhqRETEo",
+						"username": "johanna-buss-changemakerin"
+					}
+				},
+				"_id": "Persons/db0ac048-cc9d-4155-a42e-095a8e2d2724"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Cofounder data-driven regenerative agriculture with SoilBeat.com.",
+						"username": "debra",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQFzJzLJDEZSbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1554984399255?e=1738195200&v=beta&t=8HOPSONQUbpOSQKV2DxYTgo6rJwYBgiNO0h2ty2Ht4E",
+						"fullname": "Debra Aurich-Koomen",
+						"loc": "Rotterdam"
+					},
+					"linkedin": {
+						"username": "debra"
+					}
+				},
+				"_id": "Persons/0f940bf6-8068-4c02-a255-c8aa6a4c1bcc"
+			},
+			{
+				"_id": "Persons/c37eafc3-1b19-429c-a143-0c7ebe13e290",
+				"data": {
+					"profile": {
+						"loc": "Amsterdam",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEM2rBrq05wjw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718260813053?e=1738800000&v=beta&t=fGv7YLyNJ9Uge_95_C3t-IXJShoa79bLcrR-Bya00as",
+						"username": "roberta-bosu",
+						"desc": "Storyteller, Strategist and Speaker | Regeneration, Rights of Nature & Antarctica Advocate | European Climate Pact Ambassador | IUCN Commission on Education and Communication | Climate Reality Leader",
+						"fullname": "Roberta Bosu",
+						"url": "https://www.linkedin.com/in/roberta-bosu/"
+					},
+					"linkedin": {
+						"username": "roberta-bosu"
+					}
+				}
+			},
+			{
+				"_id": "Persons/0e09a638-a418-4b3b-8baf-e47a22b6666f",
+				"data": {
+					"profile": {
+						"loc": "Haarlem",
+						"username": "sjoukjegoldman",
+						"fullname": "Sjoukje Goldman 🌿",
+						"desc": "Hogeschoolhoofddocent en onderzoeker duurzame marketing | Associate Professor in Sustainable Marketing | Research interests: true pricing, sustainable consumption, sustainable marketing & regenerative businessmodels",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHXrawILmvtSw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730370359572?e=1739404800&v=beta&t=8-uEe5t9PcPUGjtMv8bR5A0mF0JeQRiZDFt_c19GZ8E"
+					},
+					"linkedin": {
+						"username": "sjoukjegoldman"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Jeroen Klompe",
+						"username": "jeroen-klompe-0682406",
+						"loc": "The Randstad, Netherlands",
+						"desc": "Regenerative Arable Farmer",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGCT2Tf_jZo7A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1710180704053?e=1732752000&v=beta&t=V0y5I45q2o2YiY56v_0D9v0F0zA5rFvYftjbcUcI2rQ"
+					},
+					"linkedin": {
+						"username": "jeroen-klompe-0682406"
+					}
+				},
+				"_id": "Persons/74011d65-7694-4f5c-bdbb-6b662a481d42"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "sean-foodrebel"
+					},
+					"profile": {
+						"desc": "Maker & Evangelist for Regenerative and Circular Food Systems",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQE7AqR8jQbJKQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1647603597980?e=1733356800&v=beta&t=gaU_TdjJ75YpLXlc3yYeXFdi1WKVSl3y_Sc1aWOfe3U",
+						"loc": "Rotterdam",
+						"username": "sean-foodrebel",
+						"fullname": "Sean Patrick"
+					}
+				},
+				"_id": "Persons/c3a04258-74c6-4419-b52b-45c5a59af747"
+			},
+			{
+				"_id": "Persons/3aec6846-9ef3-4056-9af9-7b2c99319b2a",
+				"data": {
+					"profile": {
+						"fullname": "jorn bartlema",
+						"loc": "Amsterdam",
+						"username": "jornlinked",
+						"desc": "Founder Present_Future🌱Creating Regenerative Brands | Explorer The Felt Understanding💛Space for Courageous Conversations | Brand Driver at Greentimer⚡️Up-cycling Pre-owned Cars to Electric"
+					},
+					"linkedin": {
+						"username": "jornlinked"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jaspermiddendorp"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQF-d4QtTlTv4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1688458977135?e=1733961600&v=beta&t=wDKzGQI5WHT213BjdKe8il9bgxANUHt_wqfOXL3C9dM",
+						"loc": "Amsterdam",
+						"username": "jaspermiddendorp",
+						"fullname": "Jasper Middendorp",
+						"desc": "Regenerative Materials development"
+					}
+				},
+				"_id": "Persons/4bf0a19e-1d07-45b6-9f01-6f8f1dcc83ef"
+			},
+			{
+				"_id": "Persons/7cad035b-e3de-4ff3-9d69-f6ff7c632b08",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFffgfIo1sOgA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516886450822?e=1736985600&v=beta&t=RrzLRJ_r3HRsT-DpY4n9yfIT-D7Ftj_mWNmS87oRi7g",
+						"fullname": "Håkan Nordkvist",
+						"username": "h%C3%A5kan-nordkvist-65407820",
+						"loc": "Greater Helsingborg Metropolitan Area",
+						"desc": "Sustainability | Innovation | Regenerative business | Investment | Board member | Advisor"
+					},
+					"linkedin": {
+						"username": "h%C3%A5kan-nordkvist-65407820"
+					}
+				}
+			},
+			{
+				"_id": "Persons/11d388c6-b79b-4a0c-a36a-c6edf31638d4",
+				"data": {
+					"linkedin": {
+						"username": "bartvanbeuzekom"
+					},
+					"profile": {
+						"loc": "Utrecht, Utrecht, Netherlands",
+						"username": "bartvanbeuzekom",
+						"desc": "Co-Founder at Scature: giving a positive spin to a beautiful biodiverse world\nscature.com",
+						"url": "https://www.linkedin.com/in/bartvanbeuzekom/",
+						"fullname": "Bart van Beuzekom",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEt4ejof2vfIg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718216590388?e=1729728000&v=beta&t=69gIeUCbKGx69_AYmbADrQfpC_IqDq3g02zgHY9913E"
+					}
+				}
+			},
+			{
+				"_id": "Persons/e47b75b6-04da-49b8-8f52-a69ed347788a",
+				"data": {
+					"linkedin": {
+						"username": "brecht-deriemaeker-505ba217"
+					},
+					"profile": {
+						"fullname": "Brecht Deriemaeker",
+						"desc": "co-founder of Regen Network",
+						"username": "brecht-deriemaeker-505ba217",
+						"loc": "Deinze",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQFStNCeTHoveQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1525171643742?e=1737590400&v=beta&t=AZQGjlyZdoRNrRvKiTlZbQdxbUICd2GKAi6PxF9qoAo"
+					}
+				}
+			},
+			{
+				"_id": "Persons/c95a9a3f-b549-4d0c-9b8b-2ac5ac947aa0",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEZw1RUBPu1Mg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709409307466?e=1737590400&v=beta&t=PCmiyimVl5ZW2AOVJwqqRPK4XRplUiGq0DJfW1pjP0w",
+						"loc": "Rotterdam",
+						"desc": "Decolonizing \"Sustainability\" \"Entrepreneurship\" Lecturer | Circular Communities | Regenerative Entrepreneurship | Ecosystem Services | Climate Action | \"Global South\" Advocate",
+						"fullname": "Fátima Delgado Medina",
+						"username": "fatima-delgado-medina"
+					},
+					"linkedin": {
+						"username": "fatima-delgado-medina"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Expert in mobilizing finance for Nature-based Solutions and regenerative agriculture through rights based approaches",
+						"fullname": "Chris Buss",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHbG8NJSzmKRg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699354720421?e=1737590400&v=beta&t=pLrpFMsJ5gimGjM89112_hLrJe1oYYMrJq6mgcTBcxc",
+						"loc": "Gland",
+						"username": "chris-buss"
+					},
+					"linkedin": {
+						"username": "chris-buss"
+					}
+				},
+				"_id": "Persons/6294fbd2-fb35-482d-8e8c-1d8b775c60f8"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Purpose & strategy for life-centred organisations | Regenerative Leadership & Transformation | Sensemaking | Advisor to CEOs | Board Member | Catalyst & Thought curator",
+						"loc": "Copenhagen Metropolitan Area",
+						"fullname": "Marianne With 🌳",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFTEiHdxbF5Cw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720250353016?e=1737590400&v=beta&t=LxIdTFFWmbLEIS0HwMyiTMegty9vAhiGc4MMPK9OhfY",
+						"username": "marianne-with"
+					},
+					"linkedin": {
+						"username": "marianne-with"
+					}
+				},
+				"_id": "Persons/8a37cae2-7191-4479-995e-ff28da75d572"
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFX-7kdAVSIjg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1676630407377?e=1737590400&v=beta&t=5CwmSUxauM4-C6s4EnVFh_B8q0x-2lFW1cX7OY92A2w",
+						"username": "henrikegootjes",
+						"desc": "ArtistEducator, Regenerative strategist and Activator. Ontwerper van OnderwijsProcessen ArtEZ, Programmamakers Performance, Dans en Kunst GracelandFestival, Divers advieswerk.",
+						"loc": "Arnhem",
+						"fullname": "Henrike Gootjes"
+					},
+					"linkedin": {
+						"username": "henrikegootjes"
+					}
+				},
+				"_id": "Persons/bce05583-8f9c-416d-8456-5b72b0560cad"
+			},
+			{
+				"data": {
+					"profile": {
+						"fullname": "Robin ibens",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQFdhZJfmDKT7w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622096399407?e=1737590400&v=beta&t=pM33uPxaenYK85dNc2B9t-DDeEQe4bz-hk7iT2Si0Oc",
+						"username": "robin-ibens-7964495",
+						"desc": "Regenerative business strategist | Visionary thinker | Imagineer & storyteller | Psychologist | Experience designer",
+						"loc": "Leuven"
+					},
+					"linkedin": {
+						"username": "robin-ibens-7964495"
+					}
+				},
+				"_id": "Persons/bb5da065-9352-4262-b4cf-be88c9d7d3a7"
+			},
+			{
+				"_id": "Persons/36db10ed-fc34-41c1-8c2d-87bb69814877",
+				"data": {
+					"profile": {
+						"username": "christiaan-uittenbosch-7683413",
+						"fullname": "Christiaan Uittenbosch",
+						"loc": "Netherlands",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQH6-tALi24SmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613653589447?e=1737590400&v=beta&t=BRrHE9bIKF3Vx3OTuBlNd5UqarYCmj7q8N46TT_BnEA",
+						"desc": "Founder at IntoTheWild & FiredUp | Sustainable strategy & innovation | Biomimic"
+					},
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/christiaan-uittenbosch-7683413/",
+						"fullname": "Christiaan Uittenbosch",
+						"image": "https://media.licdn.com/dms/image/C4E03AQH6-tALi24SmQ/profile-displayphoto-shrink_400_400/0/1613653589046?e=1696464000&v=beta&t=0OOaGG5nerXi7aQfz8RAid5YTEQrk3H22Hk2ZYbF3b8",
+						"username": "christiaan-uittenbosch-7683413",
+						"loc": "Netherlands"
+					}
+				}
+			},
+			{
+				"_id": "Persons/8dcce7b6-99a6-49cf-811d-572607236b84",
+				"data": {
+					"linkedin": {
+						"username": "ludivine-siret"
+					},
+					"profile": {
+						"fullname": "Ludivine Siret",
+						"desc": "I facilitate collaboration between people working towards a regenerative future.",
+						"username": "ludivine-siret",
+						"loc": "Nantes",
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQH1hFE1Zx9s4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615188323664?e=1737590400&v=beta&t=D-PsJrKQVTFioHKd0Wq1prJ0YQqTqe8jm7zMAx469cA"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "laura-winn-62519b110"
+					},
+					"profile": {
+						"desc": "Systems change coach and learning facilitator, Regenerative practitioner",
+						"image": "https://media.licdn.com/dms/image/D4D03AQFYu_mZYMw0zg/profile-displayphoto-shrink_100_100/0/1696318075158?e=1702512000&v=beta&t=iE0LNLib8v2WxfuCTdZHii3Gn00d7k8UfBYPmErWYkA",
+						"fullname": "Laura Winn",
+						"username": "laura-winn-62519b110",
+						"loc": "Montpeyroux"
+					}
+				},
+				"_id": "Persons/8aaec164-ca7b-4f25-a158-95cc2f821c82"
+			},
+			{
+				"data": {
+					"profile": {
+						"url": "https://www.linkedin.com/in/guibertdelmarmol/",
+						"desc": "Co founder at Luntfoundation",
+						"username": "guibertdelmarmol",
+						"image": "https://media-exp1.licdn.com/dms/image/C4E03AQEiQEFt_ZTy2Q/profile-displayphoto-shrink_100_100/0/1517677974763?e=1652313600&v=beta&t=yQQOvOmaw7NtjUY_eBHilDUC9WajPs1aHeNbo5bpHtY",
+						"loc": "Brussels Metropolitan Area",
+						"fullname": "Guibert del Marmol"
+					},
+					"linkedin": {
+						"username": "guibertdelmarmol"
+					}
+				},
+				"_id": "Persons/736679a7-56ee-4e99-b042-058d6a5c19d6"
+			},
+			{
+				"_id": "Persons/98baf9d0-6c70-434d-9feb-5a25da4d2caf",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D5603AQFgsfzmMW7VGQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678192655133?e=1732752000&v=beta&t=8mOXFqY6_qgS-VXtcO_v04pROcTBcrdFcz3vMwIBrR0",
+						"fullname": "Viktor Zaunders",
+						"desc": "Software architect and regenerative systems entrepreneur",
+						"username": "viktor-zaunders-2ab34547",
+						"loc": "Svalöv"
+					},
+					"linkedin": {
+						"username": "viktor-zaunders-2ab34547"
+					}
+				}
+			},
+			{
+				"_id": "Persons/406285f3-f286-4327-bdad-41faadb03883",
+				"data": {
+					"profile": {
+						"fullname": "Iwein Fuld 🇺🇦🕊️",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGh5gm1kN0-yQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516251438051?e=1733356800&v=beta&t=ouTrZ4TyeXN1RRpwHyPLXjW8zC1kGT8UWFOS0WtpbwM",
+						"username": "iweinfuld",
+						"loc": "’s-Hertogenbosch",
+						"desc": "@iwein@mas.to | Regenerative entrepreneur | Squads.com | voedselboskabouters.nl | streekboerderijen.nl | hagenmakers.nl"
+					},
+					"linkedin": {
+						"username": "iweinfuld"
+					}
+				}
+			},
+			{
+				"_id": "Persons/85d7576f-129f-4eda-a5d6-4197d6e81642",
+				"data": {
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/danniequilitzsch/",
+						"username": "danniequilitzsch",
+						"image": "https://media.licdn.com/dms/image/D4E03AQHsB8Z6bqSUgQ/profile-displayphoto-shrink_400_400/0/1683002765240?e=1709164800&v=beta&t=__vHGHDKZAY-1zbXOjFJkOIjSKD2De10zzZYRgx-VaA",
+						"loc": "Hamburg, Hamburg, Germany",
+						"fullname": "Dannie Quilitzsch"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQH2_zmjFOaCOA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1713583398330?e=1733356800&v=beta&t=Ye3DQ62wvhNkMaMkeW--hcRUBnEDjhSqxSFozjG0zhA",
+						"loc": "Hamburg",
+						"fullname": "Dannie Quilitzsch",
+						"username": "danniequilitzsch",
+						"desc": "Evolutionary Leadership"
+					}
+				}
+			},
+			{
+				"_id": "Persons/d6cbd3de-7a17-457b-8a08-2cfa1b6bed9d",
+				"data": {
+					"profile": {
+						"fullname": "Reggy , Passionate about H2O, Nature, Coaching and Sales",
+						"loc": "Ghent",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGxRBrGFjIs8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1665559539245?e=1733356800&v=beta&t=9Xhym0y4oqzR_UiCzRqZRFBNl6VzKUiMuh9HVMhAAho",
+						"username": "reggym",
+						"desc": "Using this channel to learn & share about #regenerative solutions, #natural_intelligence & #biomimicry ......... AND ....... to provide guidance in the #impact -full application of #Generative #AI for strategic sales"
+					},
+					"linkedin": {
+						"username": "reggym"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jamie-prow"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHZTeejmMVcgQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720699639071?e=1738195200&v=beta&t=QKccfxyvYWlXPPNRKVyf7-95ur9_jMmghykM_TP6bto",
+						"loc": "Castel, Guernsey, Guernsey",
+						"desc": "",
+						"username": "jamie-prow",
+						"url": "https://www.linkedin.com/in/jamie-prow/",
+						"fullname": "Jamie Prow"
+					}
+				},
+				"_id": "Persons/a0ebc873-3126-4bf0-9c69-3df34f85ac67"
+			},
+			{
+				"_id": "Persons/46ce319a-263c-43ad-b083-7206ffc5fb72",
+				"data": {
+					"linkedin": {
+						"username": "isabelle-delannoy-8337225"
+					},
+					"profile": {
+						"loc": "Greater Paris Metropolitan Region",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQG8HoiJtL3Fag/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726845365315?e=1738195200&v=beta&t=NREHFbh5T5Ninf7LRseWitu6SVLLLLYZabu6ltVnYVM",
+						"username": "isabelle-delannoy-8337225",
+						"fullname": "Isabelle Delannoy",
+						"desc": "Présidente de L'Entreprise Symbiotique - accélérer la transition des organisations et des territoires vers une économie régénérative"
+					}
+				}
+			},
+			{
+				"_id": "Persons/26ed5618-9e9a-4cb5-b488-e7d51880dd11",
+				"data": {
+					"profile": {
+						"desc": "Futurist | Facilitating Courageous Conversations towards Regenerative Leadership",
+						"fullname": "Ghalia Naseer",
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQFufhO_ejFJwA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1711973892110?e=1733508000&v=beta&t=m949fKZNW-F7QbFXWTUINOehTci7ihjCF1-IWD6AdPs",
+						"loc": "Dordrecht",
+						"username": "ghalianaseer"
+					},
+					"linkedin": {
+						"username": "ghalianaseer"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"loc": "Lille",
+						"desc": "Founder and Fire-starter at Ferme LeCoq - Nature Seminaire l Exploring Regeneration & Ecosystems at Chateau Palmer l CEO at Eagle Spirit 🦅 | Regenerative Leadership Student l Ex-Decathlon Vision Leader",
+						"username": "charliefelgate",
+						"image": "https://media.licdn.com/dms/image/v2/D5603AQFGTQ2xQqICaw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722355276078?e=1738195200&v=beta&t=jeKWXtINe-xI6LTCQZq8UnnbENO1zOzhwBShbef9lrA",
+						"fullname": "Charlie Felgate"
+					},
+					"linkedin": {
+						"fullname": "Charlie Felgate",
+						"username": "charliefelgate",
+						"image": "https://media.licdn.com/dms/image/C4E03AQHZbVyAC1LsGQ/profile-displayphoto-shrink_400_400/0/1662637217080?e=1696464000&v=beta&t=4Uepw8NCBppUIFcygpMiwGiRtLwRyNwE8g2p-lP5UjY",
+						"url": "https://www.linkedin.com/in/charliefelgate/"
+					}
+				},
+				"_id": "Persons/fb6977b9-873a-4389-8872-c6d9f0c191f2"
+			},
+			{
+				"_id": "Persons/31966e9d-8d59-489a-b8db-73506e3b59f4",
+				"data": {
+					"profile": {
+						"loc": "Haarlem",
+						"username": "claudettedegraafbierbrauwer-verpalen",
+						"fullname": "Claudette de Graaf Bierbrauwer - Verpalen",
+						"desc": "Raising Earth Keepers | Regenerative Leadership | œ Operation Education : Enabling educational leaders to lead the change towards regenerative education",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGqRIPc0OxjhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568142073098?e=1738195200&v=beta&t=BDcgQvb-7vi7vB_dsR4VQO8AgX2P2DVQWt6tNotkMuY"
+					},
+					"linkedin": {
+						"username": "claudettedegraafbierbrauwer-verpalen"
+					}
+				}
+			},
+			{
+				"_id": "Persons/73cb2c14-80e6-4b16-bc09-29213ff421f3",
+				"data": {
+					"profile": {
+						"loc": "Wageningen, Gelderland, Netherlands",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQGs8wTlcXRRtw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1582299803001?e=1738195200&v=beta&t=WmH7epsRtD7ZgfsfMsh4vxECp_JsmzZLeoZJB8x70J8",
+						"username": "rob-roggema-1734792",
+						"fullname": "Rob Roggema",
+						"url": "https://www.linkedin.com/in/rob-roggema-1734792/",
+						"desc": ""
+					},
+					"linkedin": {
+						"username": "rob-roggema-1734792"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "christyleecarter"
+					},
+					"profile": {
+						"loc": "Rotterdam",
+						"url": "https://www.linkedin.com/in/christyleecarter/",
+						"username": "christyleecarter",
+						"image": "https://media.licdn.com/dms/image/v2/D5603AQFf_rKjbEPn3A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1714119531994?e=1738195200&v=beta&t=KdK_7TixWJpQTuGN8LUQw78EhRkdAskiGumNK6FVUDI",
+						"desc": "Bridging Strategy and Execution for a Regenerative and Equitable Future | Social Impact Strategist | Governance & Partnerships | Speaker | Coach",
+						"fullname": "Christy L. Carter"
+					}
+				},
+				"_id": "Persons/73ab3db1-d4d3-4a75-910e-82a45b04379b"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jasper-muller"
+					},
+					"profile": {
+						"desc": "Passionate about nature and people | Regenerative hospitality entrepreneur, advisor, facilitator | On a mission to help people (and teams) grow, (re)connect with nature and restore our ecosystems | Enjoying the moment!",
+						"fullname": "Jasper Muller",
+						"image": "https://media.licdn.com/dms/image/v2/C4D03AQHdX9GgZTccqg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1593166592452?e=1738195200&v=beta&t=zgo33mPu4ijhGVqAchnm0z-LVFUgXKmewIVvMSCWCzY",
+						"loc": "Culemborg",
+						"username": "jasper-muller"
+					}
+				},
+				"_id": "Persons/94247c41-7d08-4d49-ba46-8d26142d68f2"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "jean-philippe-steeger-602a7269",
+						"desc": "Your Wisdom for Thriving Worlds | Regenerative Communications Coach & Consultant | Queer Leadership",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEiBo-OUWYRDQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720525949628?e=1740614400&v=beta&t=lC17El8kwVLvHUItNGeMiqsL3yr3bG9Vcgl7ZERZ2-E",
+						"loc": "Brussels",
+						"fullname": "Jean-Philippe Steeger"
+					},
+					"linkedin": {
+						"username": "jean-philippe-steeger-602a7269"
+					}
+				},
+				"_id": "Persons/f6c2acc7-ee86-40dc-b82a-83e9c68ea39e"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "buckleymarc",
+						"fullname": "Marc Buckley 🌍",
+						"url": "https://www.linkedin.com/in/buckleymarc/",
+						"image": "https://media.licdn.com/dms/image/D4E03AQFG6b7InLWplA/profile-displayphoto-shrink_400_400/0/1666075518695?e=1703721600&v=beta&t=spymglGnMYUGcPLhMQZlD4PHfyy3qF_X4-Em2wKV6Gk",
+						"loc": "Hamburg"
+					},
+					"profile": {
+						"fullname": "Marc Buckley 🌍",
+						"username": "buckleymarc",
+						"desc": "Systems Thinker, Polymath, ESG 🌍 , Ecological Economist, Founder, Ambassador, Advocate for SDG's, Expert WEF, Regenerative Futurist, Social Entrepreneur, Board Member, Speaker🎤, Author ✍🏽 Global Food Systems Reformist",
+						"loc": "Hamburg",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQHGfE3pOSmzsQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1712655633896?e=1740614400&v=beta&t=6woVdLJqmtSBjCxMzCr4SH_kE-EAC3CjZq-k-dkJKTU"
+					}
+				},
+				"_id": "Persons/7d5fde41-02e4-40fe-87b9-ecfb8a70a006"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "alice-durand-reville",
+						"loc": "Paris",
+						"desc": "Founder & Leader at She Changes Climate France | Senior Advisor in Multi-Stakeholder Engagement | Expert in CSR, Food systems & Regenerative Agriculture",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQF48rrJTlZ1Tw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668194533469?e=1740614400&v=beta&t=JdkB7fgCI2bWh7INF3VTl2HDQSa_KzxPyhFmwtsnH7M",
+						"fullname": "Alice Durand-Réville"
+					},
+					"linkedin": {
+						"username": "alice-durand-reville"
+					}
+				},
+				"_id": "Persons/ea6ee18e-7b44-42a3-809c-921ebd83b61a"
+			},
+			{
+				"_id": "Persons/0c6e73b7-98b1-4c06-9a10-881004a1a926",
+				"data": {
+					"profile": {
+						"loc": "Bloemendaal",
+						"desc": "",
+						"username": "davidembartlett",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQEiPjdtwlHqFA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709292188361?e=1740614400&v=beta&t=hWJd5kPHw-N6kr8uR9H-Xg3U3Nu1oSJl9RdEba0qHBs",
+						"fullname": "David Bartlett"
+					},
+					"linkedin": {
+						"username": "davidembartlett",
+						"loc": "The Randstad, Netherlands",
+						"image": "https://media.licdn.com/dms/image/D4E03AQEZc8-hIACs8g/profile-displayphoto-shrink_400_400/0/1676294390055?e=1709164800&v=beta&t=e-NzW78-uXjGbqkaFIr4HdSUIXu-VrEd1IoC3tiMMwQ",
+						"url": "https://www.linkedin.com/in/davidembartlett/",
+						"fullname": "David Bartlett"
+					}
+				}
+			},
+			{
+				"_id": "Persons/28471e7c-dde7-4c52-9195-8df4b670dd54",
+				"data": {
+					"linkedin": {
+						"username": "laurentbabikian"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C5603AQHqUsLEJhsRSg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1600453431856?e=1740614400&v=beta&t=sBFNTfSTtuWs1SrTPVsnK1yJVdDZTLx527XJizV6gis",
+						"loc": "Paris",
+						"username": "laurentbabikian",
+						"fullname": "Laurent BABIKIAN",
+						"desc": "Transitioning away from an Extractive to a Regenerative Economy Freelance Consultant & Keynote Speaker on ESG&Impact I Transition Planning I Regenerative Business Models with Sustainabiliy-linked Pricing"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Associate Professor in Regenerative Education and Development || Co-founder School of Regenerative Educators",
+						"fullname": "Mieke Lopes Cardozo",
+						"loc": "Amsterdam",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQG0BvtkzDhpsw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1576783873959?e=1740614400&v=beta&t=IuIWJJtqNB_hu_48KVwdgQMS_SiAuaOs16TNDl0zkYs",
+						"username": "mieke-lopes-cardozo-2926933",
+						"url": "https://www.linkedin.com/in/mieke-lopes-cardozo-2926933/"
+					},
+					"linkedin": {
+						"username": "mieke-lopes-cardozo-2926933"
+					}
+				},
+				"_id": "Persons/630e5806-4833-4b06-a9f6-f98e64180578"
+			},
+			{
+				"_id": "Persons/4b24943d-194c-401c-a07a-64c5e4bfb80e",
+				"data": {
+					"linkedin": {
+						"username": "mikkel-pilgaard-68718058"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQGhgWPYEXlKpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701354768367?e=1740614400&v=beta&t=uiiDysEsaWMsS6lWFzHcdpOxmPEC5EwIhongLQxqh1g",
+						"fullname": "Mikkel Pilgaard",
+						"url": "https://www.linkedin.com/in/mikkel-pilgaard-68718058/",
+						"loc": "Aarhus, Central Denmark Region, Denmark",
+						"username": "mikkel-pilgaard-68718058",
+						"desc": "Strategic Sustainable Development / Circular Regenerative Economy / Systemic Transformational Design / Eco-Conscious Complexity Leadership / SDIs & ESG / Ethics / Coaching / Education / Futures"
+					}
+				}
+			},
+			{
+				"_id": "Persons/99480fb6-a50c-4b5e-ad46-82bdbe83334c",
+				"data": {
+					"linkedin": {
+						"username": "siegerburger"
+					},
+					"profile": {
+						"fullname": "Sieger Burger",
+						"loc": "Netherlands",
+						"username": "siegerburger",
+						"image": "https://media.licdn.com/dms/image/v2/C5103AQF5sKxxULMzAg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516358922394?e=1738195200&v=beta&t=yNzMUcBbEX3d5ABQTwMaV3h4tdyUxtVVhmru1tNXgyQ",
+						"desc": "Open for consultancy opportunities | Landscape Restoration through design | Regenerative Agriculture | Training | Geohydrology | IWRM | GIS",
+						"url": "https://www.linkedin.com/in/siegerburger/"
+					}
+				}
+			},
+			{
+				"_id": "Persons/073ed58f-c723-4beb-bf01-7de359765afa",
+				"data": {
+					"profile": {
+						"image": "https://media-exp1.licdn.com/dms/image/C4E03AQGTTO2elR_LLA/profile-displayphoto-shrink_100_100/0/1517713267138?e=1665619200&v=beta&t=B5LSrgUAZWw94BGX5CZRyAtpqb003Tp4ILQmsLxP5YA",
+						"loc": "Amsterdam",
+						"fullname": "Nico Blaauw",
+						"desc": "Impact investing | Inclusion | Early growth | Fundraising | Regenerative agri | Food",
+						"username": "nico-blaauw-3549b54"
+					},
+					"linkedin": {
+						"username": "nico-blaauw-3549b54"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "inge-gijsbers-a9b9381",
+						"image": "https://media-exp1.licdn.com/dms/image/C5103AQFaoINrigXaJA/profile-displayphoto-shrink_100_100/0/1516340483925?e=1665619200&v=beta&t=QehGUPRgKOd5s_ocfmoSzPiD1eZcfr25mmyxL1V3nYM",
+						"fullname": "Inge Gijsbers",
+						"desc": "Senior lecturer Tourism Impacts | Positive impacts | Regenerative tourism",
+						"loc": "Deventer"
+					},
+					"linkedin": {
+						"username": "inge-gijsbers-a9b9381"
+					}
+				},
+				"_id": "Persons/0286e88a-01f7-47f8-8920-9ebc3992262e"
+			},
+			{
+				"data": {
+					"profile": {
+						"username": "riella-hollander-van-de-vondervoort-991b741a",
+						"loc": "Amsterdam",
+						"image": "https://media-exp1.licdn.com/dms/image/C4D03AQETv6MhCitC7g/profile-displayphoto-shrink_100_100/0/1516858953455?e=1665619200&v=beta&t=eClNce_y1JEYXfqzO3r_iA9Rg3YctyN7xpjQ7NjxF3g",
+						"desc": "MD Triodos Regenerative Money Centre",
+						"fullname": "Riella Hollander - Van de Vondervoort"
+					},
+					"linkedin": {
+						"username": "riella-hollander-van-de-vondervoort-991b741a"
+					}
+				},
+				"_id": "Persons/6dcc854b-e2a1-45a0-9d62-5eac8caf7f3e"
+			},
+			{
+				"_id": "Persons/00b8af6d-b336-456e-88d7-aa1ff17bf37e",
+				"data": {
+					"profile": {
+						"desc": "fighting for an ecologically regenerative economic system // peer-to-peer digital tech, also DWeb // network resource planning, open value networks, mutual credit commons & a post-capitalist economy",
+						"loc": "Eindhoven",
+						"fullname": "Jeroen B.",
+						"username": "jeremyboom",
+						"image": "https://media-exp1.licdn.com/dms/image/C4E03AQEvwGILZhnfmQ/profile-displayphoto-shrink_100_100/0/1659821595003?e=1666224000&v=beta&t=XFB6ZIF3N8qH0f5JJp5HlTO6fjZga8wGBRnqykjt5j0"
+					},
+					"linkedin": {
+						"username": "jeremyboom"
+					}
+				}
+			},
+			{
+				"_id": "Persons/e80492ac-0f56-4968-93a2-eb2aa2b4909e",
+				"data": {
+					"linkedin": {
+						"username": "ralfbelusa"
+					},
+					"profile": {
+						"loc": "Hamburg",
+						"fullname": "Dr. Ralf Belusa",
+						"desc": "CDO, Board Member, Supervisory Board Member -Transformation in 144 Countries- Mindful, collaborative & passionate about accelerating digitalization & reinvention for a sustainable, regenerative and livable future",
+						"image": "https://media-exp1.licdn.com/dms/image/C4E03AQHGmumq-t9DiQ/profile-displayphoto-shrink_100_100/0/1662641288744?e=1668643200&v=beta&t=peWRAvqrAKwmhz6gM68aENrrfEDh_breu6wTrB9H6Rc",
+						"username": "ralfbelusa"
+					}
+				}
+			},
+			{
+				"_id": "Persons/c1f068b1-87c2-4205-81bf-5afb4e682c7a",
+				"data": {
+					"linkedin": {
+						"username": "aude-k-chesnais-ph-d-93758567"
+					},
+					"profile": {
+						"loc": "Plougoumelen",
+						"username": "aude-k-chesnais-ph-d-93758567",
+						"fullname": "Aude K. Chesnais, Ph.D.",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHBxo47kfKeoA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1662118889652?e=1736985600&v=beta&t=-qSClNo4QAGqnXH3AlxePEF2cB3QnEf0CPB5DrYxeb0",
+						"url": "https://www.linkedin.com/in/aude-k-chesnais-ph-d-93758567/",
+						"desc": "Executive Director Village Earth / Native Lands Advocacy Project / Decolonial Ecology / TEK / Climate Adaptation"
+					}
+				}
+			},
+			{
+				"_id": "Persons/0965ddc1-68a6-4442-b636-6e7feaf350ae",
+				"data": {
+					"linkedin": {
+						"username": "helloemilylin"
+					},
+					"profile": {
+						"username": "helloemilylin",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFjK-YUSYHqEA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678351056114?e=1729123200&v=beta&t=G3MaG9Anj8cGOaXz6zW7Vxc8zlCxuHRJ83umg-ol-B0",
+						"fullname": "Emily Lin",
+						"desc": "Strategic Designer & Change Facilitator | Building Regenerative Practice and Culture",
+						"loc": "Copenhagen"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"url": "https://www.linkedin.com/in/willemijndeiongh/",
+						"image": "https://media.licdn.com/dms/image/C5603AQEYLqMnA-Ui1g/profile-displayphoto-shrink_400_400/0/1603109177839?e=1709164800&v=beta&t=82x3-wgWiPZYFwJB_SJaGkIJCsrxbF6TWtX02ds2GBY",
+						"username": "willemijndeiongh",
+						"fullname": "Willemijn de Iongh",
+						"loc": "Wageningen, Gelderland, Netherlands"
+					},
+					"profile": {
+						"fullname": "Willemijn de Iongh",
+						"loc": "Wageningen",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHRqWG6Rr6Eiw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722245050182?e=1740614400&v=beta&t=GjGgmness5IJiXpaGwOCzHiTRTh_qMBbidMmEcaHJQs",
+						"username": "willemijndeiongh",
+						"desc": "On a life’s mission to create thriving communities and landscapes | Landscape Developer & Facilitator at Commonland"
+					}
+				},
+				"_id": "Persons/ff9763a3-fd62-4af2-8416-dc2c801d03d0"
+			},
+			{
+				"_id": "Persons/8fad0a4c-a5fe-43df-a564-f9ff8847d3dc",
+				"data": {
+					"profile": {
+						"desc": "Systems change coach and learning facilitator, Regenerative practitioner",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFYu_mZYMw0zg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1696318075735?e=1740614400&v=beta&t=5gBYQ7naMouZtHN8ngrvx2oe9VORybesuqe30T8_Nwo",
+						"url": "https://www.linkedin.com/in/laura-winn-%F0%9F%A6%8B-62519b110/",
+						"loc": "Montpeyroux",
+						"fullname": "Laura Winn 🦋",
+						"username": "laura-winn-%F0%9F%A6%8B-62519b110"
+					},
+					"linkedin": {
+						"username": "laura-winn-%F0%9F%A6%8B-62519b110"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHi_Mi0ioUjXA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1689758604766?e=1740614400&v=beta&t=GxaThSlVHGohdh25ibhbb6Qn9y2fa8bYqeR5FJfIe-8",
+						"url": "https://www.linkedin.com/in/chiara-momo/",
+						"desc": "Responsible for action research at LUMIÅ - Passionate about Nature and Regenerative Systems",
+						"username": "chiara-momo",
+						"loc": "Greater Lille Metropolitan Area",
+						"fullname": "Chiara Momo"
+					},
+					"linkedin": {
+						"username": "chiara-momo"
+					}
+				},
+				"_id": "Persons/681c9c1e-2f81-42dd-a296-01bde92eb7e2"
+			},
+			{
+				"_id": "Persons/3b252dbe-d6d6-4448-baee-749ec144c9be",
+				"data": {
+					"linkedin": {
+						"username": "dora-chi-xu-ab055652"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/dora-chi-xu-ab055652/",
+						"fullname": "Dora Chi Xu",
+						"loc": "Amsterdam, North Holland, Netherlands",
+						"username": "dora-chi-xu-ab055652",
+						"desc": "Circular Economy | Sustainable Fashion | Metabolic"
+					}
+				}
+			},
+			{
+				"_id": "Persons/b7f08548-52c5-4bbb-b452-eb02af77d6fb",
+				"data": {
+					"linkedin": {
+						"username": "elise-eijs"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQG34xCQXIegNw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732274082530?e=1740614400&v=beta&t=jk1VeGe7oIDTlrY_7clXeMDPJ73HZ0Qeb92ZtXrkhJM",
+						"loc": "Wageningen, Gelderland, Netherlands",
+						"desc": "Sustainability Consultant with the Agrifood & Biodiversity Team at Metabolic",
+						"username": "elise-eijs",
+						"fullname": "Elise Eijs",
+						"url": "https://www.linkedin.com/in/elise-eijs/"
+					}
+				}
+			},
+			{
+				"_id": "Persons/9b80505d-7781-47ca-b686-b0706a85e153",
+				"data": {
+					"linkedin": {
+						"username": "eva-heuts-83154263"
+					},
+					"profile": {
+						"desc": "Living Systems Thinking & Regenerative Development",
+						"fullname": "Eva Heuts",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQE66Ni-8Tpd0Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1680785664251?e=1740614400&v=beta&t=-SKMAIksBaVBX3bYeH7GUWOZbDIwQD6-5FZnNtxh2mo",
+						"loc": "Antwerp Metropolitan Area",
+						"url": "https://www.linkedin.com/in/eva-heuts-83154263/",
+						"username": "eva-heuts-83154263"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "gillissarah"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4E35AQHI91d6Swv2cw/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1719439148466?e=1735750800&v=beta&t=_ko20ORV0fwcvtv4X40BnkgmKAWML_bpSES4tORbxZ4",
+						"loc": "Antwerp, Flemish Region, Belgium",
+						"url": "https://www.linkedin.com/in/gillissarah/",
+						"desc": "Unlocking the potential of people and organisations\n\n\n#Facilitator #ChangeManager #Leiderschapscoach #Transformatiecoach #TeamWorking #Coaching #LegoSeriousPlay #DesignThinking",
+						"username": "gillissarah",
+						"fullname": "Sarah Gillis"
+					}
+				},
+				"_id": "Persons/2bc21c56-9692-49e2-834d-c3b273d1fb41"
+			},
+			{
+				"_id": "Persons/b4dddd07-f52a-4b5a-b628-c99c58874547",
+				"data": {
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQFhm_lamVGDNA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718919759759?e=1740614400&v=beta&t=5-eKyt_eTbjp_okaFuJobsRsGd6pgAdVL8IC2CDfl14",
+						"loc": "Amsterdam, North Holland, Netherlands",
+						"username": "hessel-moelijker-5b462980",
+						"desc": "Agrifood & Biodiversity at Metabolic | Helping organizations on the way to Nature Positive",
+						"fullname": "Hessel Moelijker",
+						"url": "https://www.linkedin.com/in/hessel-moelijker-5b462980/"
+					},
+					"linkedin": {
+						"username": "hessel-moelijker-5b462980"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "jamessouder"
+					},
+					"profile": {
+						"fullname": "James Souder",
+						"url": "https://www.linkedin.com/in/jamessouder/",
+						"username": "jamessouder",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGYXYydVGL5Fg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728406900667?e=1740614400&v=beta&t=xdLwM5SLHzNT5uArdKBBQTJFPggAkk6WzukKhSOIvTw",
+						"desc": "Communications Lead, Sustainable Industries at Metabolic",
+						"loc": "Amsterdam, North Holland, Netherlands"
+					}
+				},
+				"_id": "Persons/7f06e143-283d-43c7-a84b-636940c951b8"
+			},
+			{
+				"_id": "Persons/60a63b72-de5c-49c0-9b4b-99eb002dfb5d",
+				"data": {
+					"linkedin": {
+						"username": "bdelepierre"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQHrusSOVJ4DXA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1659045955809?e=1740614400&v=beta&t=vQA8iuZPvDOAvNkz0-BxX4pIVkHnvuNTAgnh6RmRixE",
+						"username": "bdelepierre",
+						"loc": "Leuven",
+						"fullname": "Bruno Delepierre",
+						"desc": "Chief Regenerative Officer @ Happonomy"
+					}
+				}
+			},
+			{
+				"_id": "Persons/034bf4fd-a35d-47ea-845c-e03b6a172f04",
+				"data": {
+					"linkedin": {
+						"username": "edwinkorver"
+					},
+					"profile": {
+						"image": "https://media.licdn.com/dms/image/v2/D4D35AQEeajDCPnAXjQ/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1734381771398?e=1735772400&v=beta&t=EPObs9sixkoq11FpsBaeUs7haPl5ohAdiGuIICRNfNg",
+						"desc": "RoundMap® Regenerative Business Framework ✦ Steward of Equity and Purpose ✦ Certified Board Member ✦ Polymath ∇ Forum",
+						"fullname": "Edwin Korver",
+						"username": "edwinkorver",
+						"loc": "Almere"
+					}
+				}
+			},
+			{
+				"_id": "Persons/6bf46458-3005-4f17-bac1-694880c0ca48",
+				"data": {
+					"linkedin": {
+						"username": "koenwessels"
+					},
+					"profile": {
+						"loc": "Utrecht, Utrecht, Netherlands",
+						"fullname": "Koen Wessels",
+						"desc": "Co-founder School of Regenerative Educators | Co-founder De Bildung Academie | Action Researcher | Educator | Trainer",
+						"username": "koenwessels",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQHO_SGx_Pm8sg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697633833677?e=1740614400&v=beta&t=HGDPCdwCTJVCmLlhfN6oHa3JmfXKFg8XPZypo1Xg4gw",
+						"url": "https://www.linkedin.com/in/koenwessels/"
+					}
+				}
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Project Manager | Regenerative Practitioner | Amateur philosopher | Passionately Curious",
+						"url": "https://www.linkedin.com/in/laiagomezvalle/",
+						"username": "laiagomezvalle",
+						"fullname": "Laia Gómez Valle",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQEodrb-oUYq9w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708091683170?e=1740614400&v=beta&t=BgDYZBCeAgB9NYLzpnc9-PHVual9rCCL2OJIXEMsS10",
+						"loc": "Amsterdam, North Holland, Netherlands"
+					},
+					"linkedin": {
+						"username": "laiagomezvalle"
+					}
+				},
+				"_id": "Persons/468ee9b0-86aa-4c5e-8347-09e9a4302394"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "ma%c3%abla-porcheron-b4338452"
+					},
+					"profile": {
+						"url": "https://www.linkedin.com/in/ma%C3%ABla-porcheron-b4338452/",
+						"fullname": "Maëla Porcheron",
+						"desc": "Senior Project Manager | Regenerative Agriculture | +10years experience",
+						"username": "ma%c3%abla-porcheron-b4338452",
+						"loc": "Amsterdam, North Holland, Netherlands"
+					}
+				},
+				"_id": "Persons/e9a0b0cc-67fa-4980-ae4d-dd90dfb68a27"
+			},
+			{
+				"data": {
+					"linkedin": {
+						"loc": "Amsterdam",
+						"image": "https://media.licdn.com/dms/image/C5603AQGK-dffAcgYDw/profile-displayphoto-shrink_400_400/0/1657661539887?e=1698883200&v=beta&t=Ar_AOMssBYBHQOjz4GZGSSFHPhBSfu5HW0VdSnoUAag",
+						"username": "seleyn-deyarus-3710126",
+						"url": "https://www.linkedin.com/in/seleyn-deyarus-3710126/",
+						"fullname": "Seleyn DeYarus"
+					},
+					"profile": {
+						"loc": "Amsterdam",
+						"username": "seleyn-deyarus-3710126",
+						"desc": "Champion of Regenerative Ways of Being",
+						"url": "https://www.linkedin.com/in/seleyn-deyarus-3710126/",
+						"fullname": "Seleyn DeYarus",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQFGd_VYonE4YA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711200953315?e=1740614400&v=beta&t=B2bm-dBxtACB8larA_NG-DFs1l2DjGb1NdF4yUvaVPc"
+					}
+				},
+				"_id": "Persons/1b8ab570-53b5-426b-8a88-79fb5442513b"
+			},
+			{
+				"data": {
+					"profile": {
+						"desc": "Systems Change Agent for a Regenerative Future by reconnecting Ecology and Economy | Managing Partner at NOW Partners | Circular Economy & Innovation Lecturer | System Thinker | Innovator | Moderator | TEDx Speaker",
+						"loc": "Hilvarenbeek",
+						"username": "merijndols",
+						"fullname": "Merijn Dols"
+					},
+					"linkedin": {
+						"fullname": "Merijn Dols",
+						"url": "https://www.linkedin.com/in/merijndols/",
+						"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+						"loc": "Hilvarenbeek",
+						"username": "merijndols"
+					}
+				},
+				"_id": "Persons/51eb6a96-3760-4458-84ad-298ec9ccb1c0"
+			},
+			{
+				"_id": "Persons/43dcedf4-529d-4703-996f-ac41650b8160",
+				"data": {
+					"linkedin": {
+						"username": "yohansmal"
+					},
+					"profile": {
+						"username": "yohansmal",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQGFj07iTA_4aw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1636456442118?e=1740614400&v=beta&t=U8ebGZC77tj-gbdPBhp8Ay5pH8trddd3bVlOEYcHQiM",
+						"loc": "Lille",
+						"fullname": "Yohan SMAL",
+						"desc": "Démarche régénerative des approvisionnements et des politiques RSE ."
+					}
+				}
+			},
+			{
+				"_id": "Persons/5d91f9b6-a227-49f0-a1f3-49fffb86eaa2",
+				"data": {
+					"linkedin": {
+						"username": "marjolein-nagel-a893416"
+					},
+					"profile": {
+						"desc": "Changemaker | for the benefit of the whole | Strateeg | kwartiermaker | regisseur | Chi Neng Qigong | regenerative practitioner",
+						"image": "https://media.licdn.com/dms/image/v2/D4E03AQGLrC6QXJAs0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1678911479640?e=1740614400&v=beta&t=85loW3mmo2YrGWu-s6NGWeliuFrluVx6IZbb8FsQW0Q",
+						"username": "marjolein-nagel-a893416",
+						"fullname": "Marjolein Nagel",
+						"url": "https://www.linkedin.com/in/marjolein-nagel-a893416/",
+						"loc": "Netherlands"
+					}
+				}
+			},
+			{
+				"_id": "Persons/224598e9-23d9-4c69-9fcb-0cb578130d87",
+				"data": {
+					"linkedin": {
+						"username": "melina-merdanovic-52b4797b"
+					},
+					"profile": {
+						"username": "melina-merdanovic-52b4797b",
+						"loc": "Amsterdam, North Holland, Netherlands",
+						"fullname": "Melina Merdanovic",
+						"image": "https://media.licdn.com/dms/image/v2/C4E03AQEbDHaT-DF63A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1655663578883?e=1740614400&v=beta&t=iL2uNJIR2qIMqPbSbmchZXrhW5tXGV3JwF68itw5oNQ",
+						"url": "https://www.linkedin.com/in/melina-merdanovic-52b4797b/",
+						"desc": "Client Insights Consultant at Circana | Regenerative researcher and practitioner"
+					}
+				}
+			},
+			{
+				"data": {
+					"linkedin": {
+						"username": "natalia-pe%c3%b1a-pereira-"
+					},
+					"profile": {
+						"loc": "Salas, Principality of Asturias, Spain",
+						"url": "https://www.linkedin.com/in/natalia-pe%C3%B1a-pereira-/",
+						"desc": "Regenerative marketer | Brand strategy, content creation, and graphic design.",
+						"username": "natalia-pe%c3%b1a-pereira-",
+						"fullname": "Natalia Peña Pereira"
+					}
+				},
+				"_id": "Persons/542c10f4-7305-4c17-b9e7-ad9da25ba4a4"
+			},
+			{
+				"_id": "Persons/80a5739b-48c8-4f23-88e6-4a3a868f7911",
+				"data": {
+					"profile": {
+						"fullname": "Roberta Domingues",
+						"image": "https://media.licdn.com/dms/image/v2/D4D03AQHbQ9iuZHEChA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1721216401127?e=1740614400&v=beta&t=vkuj1MFLWUr0hHi6_tS_Y44WASN4TWQj96pM090xftQ",
+						"username": "robertadominguesb",
+						"url": "https://www.linkedin.com/in/robertadominguesb/",
+						"loc": "Denmark",
+						"desc": "Conscious Leadership Learning and Development at Kaospilot & WeFlow | Facilitator of Cultural Transformation towards Sustainability and Regeneration"
+					},
+					"linkedin": {
+						"username": "robertadominguesb"
+					}
+				}
+			}
+		],
+		"edges": [
+			[
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/4fdf0ee4-8bbc-4838-8c2b-eb25e681143d",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/3efdeb1d-c511-43b8-9172-c595a50565d1",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/2abf1272-d2f3-4b56-9816-6aa6b4a56f80",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/b8e0aa55-f6fb-4a25-a66b-f33430b91d17",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/9e335a86-89d1-4c68-b86e-58b05b91c939",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/bb4b638d-6b3b-46e4-acac-7e0324212f3d",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/e6617cf8-1b14-4f5f-880d-d0103d72c840",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/dcfd9b9f-59d2-40c8-b669-6b381d757830",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/36211624-d2eb-43be-873c-832c2ab2aa94",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/c0e7bdbd-fd34-499b-95f8-46bdd458c473",
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1"
+			],
+			[
+				"Persons/9b6c3a97-4fd8-41d9-8163-2b18ea602893",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/f43ae491-39c0-424c-b4a0-6ba6c2fc1f5d",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/16737c71-89e8-4dc0-93e5-f4f5be05d7de",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/2abf1272-d2f3-4b56-9816-6aa6b4a56f80",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86"
+			],
+			[
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/df63039f-4bc2-45ca-af01-6ba55df069bd",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/6d2cadd0-1312-4e41-9fa7-5288cb8822de",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f",
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/6a62ce05-94c2-4df9-bf77-4ecb172d7c49"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae"
+			],
+			[
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97"
+			],
+			[
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18",
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97"
+			],
+			[
+				"Persons/e1ccf292-72b8-4b94-ae05-8623f807930d",
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a"
+			],
+			[
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/f257aaf8-ecd0-485e-9048-d9c58237d85a"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/c02aeea9-7229-4970-9765-6ec431901ec4"
+			],
+			[
+				"Persons/02f5430b-c8d6-446c-ab62-52061d40050f",
+				"Persons/c02aeea9-7229-4970-9765-6ec431901ec4"
+			],
+			[
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"Persons/c02aeea9-7229-4970-9765-6ec431901ec4"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/c02aeea9-7229-4970-9765-6ec431901ec4"
+			],
+			[
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7",
+				"Persons/05afdab6-66ff-40b7-befc-ddf68e21c890"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/05afdab6-66ff-40b7-befc-ddf68e21c890"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/05afdab6-66ff-40b7-befc-ddf68e21c890"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/05afdab6-66ff-40b7-befc-ddf68e21c890"
+			],
+			[
+				"Persons/4c6d2081-a650-4b99-9677-419a615a6911",
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f"
+			],
+			[
+				"Persons/2aabc766-7406-41bd-9eb3-e29ae4db58de",
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f"
+			],
+			[
+				"Persons/dab505a9-68a6-4a88-bd17-0fc0bef81b9f",
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f"
+			],
+			[
+				"Persons/e756c2a6-0101-4f2c-9ac2-3d91fc393079",
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f"
+			],
+			[
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf",
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5"
+			],
+			[
+				"Persons/668ba9f7-c609-4f3a-819a-2816066a211a",
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5"
+			],
+			[
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18",
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9"
+			],
+			[
+				"Persons/9b6c3a97-4fd8-41d9-8163-2b18ea602893",
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/cea634de-de99-4f8e-a273-45ed958e18f9"
+			],
+			[
+				"Persons/81696ce0-0729-4379-92fb-3ced3a1fdb68",
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0"
+			],
+			[
+				"Persons/5805c03c-2a60-43dc-93fe-999032f01f74",
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0"
+			],
+			[
+				"Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1",
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0"
+			],
+			[
+				"Persons/a00766e1-8a9c-4115-9cdd-e78f48d95457",
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/d419c0be-edf4-4706-a7bb-3192ecd93a57"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/d419c0be-edf4-4706-a7bb-3192ecd93a57"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/d419c0be-edf4-4706-a7bb-3192ecd93a57"
+			],
+			[
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379",
+				"Persons/d419c0be-edf4-4706-a7bb-3192ecd93a57"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/1d5047dd-4abd-470c-bf09-1e125458c399"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/1d5047dd-4abd-470c-bf09-1e125458c399"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/1d5047dd-4abd-470c-bf09-1e125458c399"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/1d5047dd-4abd-470c-bf09-1e125458c399"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454"
+			],
+			[
+				"Persons/9cdc1542-5903-4ed0-a4a2-3ff3cb8b6c67",
+				"Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6"
+			],
+			[
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf",
+				"Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/8ec2b50f-f909-4179-bf8e-c51865b7cb18"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7"
+			],
+			[
+				"Persons/e1ccf292-72b8-4b94-ae05-8623f807930d",
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/6d2cadd0-1312-4e41-9fa7-5288cb8822de"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/6d2cadd0-1312-4e41-9fa7-5288cb8822de"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/6d2cadd0-1312-4e41-9fa7-5288cb8822de"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/bce0d0ac-e8ab-47cc-9a17-1de20827f987"
+			],
+			[
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f",
+				"Persons/bce0d0ac-e8ab-47cc-9a17-1de20827f987"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/bce0d0ac-e8ab-47cc-9a17-1de20827f987"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/5ecb6159-13d2-433f-8e6b-0cae7cf9a450"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/5ecb6159-13d2-433f-8e6b-0cae7cf9a450"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/5ecb6159-13d2-433f-8e6b-0cae7cf9a450"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/52137243-044f-4da1-80d7-3a8170b1bbd4"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/52137243-044f-4da1-80d7-3a8170b1bbd4"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/52137243-044f-4da1-80d7-3a8170b1bbd4"
+			],
+			[
+				"Persons/af68cbb8-86fd-4c72-b448-6ce88fbb70ae",
+				"Persons/be4fdab3-6ba3-48ba-99f7-f0af560ddac0"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/be4fdab3-6ba3-48ba-99f7-f0af560ddac0"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/be4fdab3-6ba3-48ba-99f7-f0af560ddac0"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/c1cd27ae-a7a4-4643-9ac7-d8fc0bc16a65"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/c1cd27ae-a7a4-4643-9ac7-d8fc0bc16a65"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/c1cd27ae-a7a4-4643-9ac7-d8fc0bc16a65"
+			],
+			[
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab"
+			],
+			[
+				"Persons/f0cc8c2f-7c95-49f6-8407-1c41ab4d10ff",
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab"
+			],
+			[
+				"Persons/7934d2c1-754d-47dc-8606-a9ecc50d810b",
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/817449e0-5696-4abe-949f-ca93d6ac0c00"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/817449e0-5696-4abe-949f-ca93d6ac0c00"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/817449e0-5696-4abe-949f-ca93d6ac0c00"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/0fd396f4-c22f-4fc2-a1f9-eea93adb2552"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/0fd396f4-c22f-4fc2-a1f9-eea93adb2552"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/0fd396f4-c22f-4fc2-a1f9-eea93adb2552"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/8c989646-9ec8-41c1-a5d6-5a3725dde8d9"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/8c989646-9ec8-41c1-a5d6-5a3725dde8d9"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/8c989646-9ec8-41c1-a5d6-5a3725dde8d9"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/de4ccd03-f716-4383-9184-d6fb21e3c8c7"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/de4ccd03-f716-4383-9184-d6fb21e3c8c7"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/2aabc766-7406-41bd-9eb3-e29ae4db58de"
+			],
+			[
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f",
+				"Persons/2aabc766-7406-41bd-9eb3-e29ae4db58de"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/ebce2a31-ef86-4a10-a1ba-39c6e7f013b1"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/96cdef49-7782-449f-8f7d-588a5572b31d"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/96cdef49-7782-449f-8f7d-588a5572b31d"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/4c48c8ee-fce1-4afa-9801-44833811c07b"
+			],
+			[
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379",
+				"Persons/4c48c8ee-fce1-4afa-9801-44833811c07b"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/9e5a2d09-ba93-4513-810b-91a281ec6b50"
+			],
+			[
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379",
+				"Persons/9e5a2d09-ba93-4513-810b-91a281ec6b50"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/4fdf0ee4-8bbc-4838-8c2b-eb25e681143d"
+			],
+			[
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"Persons/4fdf0ee4-8bbc-4838-8c2b-eb25e681143d"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/188a0a02-0ada-4505-80a9-509474a97aab"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/188a0a02-0ada-4505-80a9-509474a97aab"
+			],
+			[
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf",
+				"Persons/436d2d7d-1a1b-4876-8779-125db249049c"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/436d2d7d-1a1b-4876-8779-125db249049c"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379"
+			],
+			[
+				"Persons/c581f569-dd4d-4f39-951d-ee1e67e6c28f",
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379"
+			],
+			[
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7",
+				"Persons/b267d66b-4701-48f0-bbd1-3b065e4bf6b5"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/b267d66b-4701-48f0-bbd1-3b065e4bf6b5"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/811c42f0-36a7-45ea-ac9d-b41fea74fb7d"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/811c42f0-36a7-45ea-ac9d-b41fea74fb7d"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/d17a8e73-8e82-4441-8a08-dd78dbf66181"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/d17a8e73-8e82-4441-8a08-dd78dbf66181"
+			],
+			[
+				"Persons/4102466d-051b-4a3a-bbf0-4e1186599dd3",
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75"
+			],
+			[
+				"Persons/0fd396f4-c22f-4fc2-a1f9-eea93adb2552",
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/9060c640-4c04-406e-a328-9d032ec7df27"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/9060c640-4c04-406e-a328-9d032ec7df27"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/f202508f-51fc-4b25-8b12-c2268d047f11"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/f202508f-51fc-4b25-8b12-c2268d047f11"
+			],
+			[
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693",
+				"Persons/4ada846a-4acc-4edf-aedc-4cf17b5062ad"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/4ada846a-4acc-4edf-aedc-4cf17b5062ad"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/36211624-d2eb-43be-873c-832c2ab2aa94"
+			],
+			[
+				"Persons/8898c1f8-3777-4b9d-81e9-5799d9cc0bc1",
+				"Persons/36211624-d2eb-43be-873c-832c2ab2aa94"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf"
+			],
+			[
+				"Persons/03befc7d-f4c1-4fe6-8aca-0bc541f993c6",
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/4102466d-051b-4a3a-bbf0-4e1186599dd3"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/81696ce0-0729-4379-92fb-3ced3a1fdb68"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/7934d2c1-754d-47dc-8606-a9ecc50d810b"
+			],
+			[
+				"Persons/19b8d869-364f-475e-bbae-0eb53c1b18c3",
+				"Persons/6d6861d9-4e8b-426a-aecd-523f9f533351"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/c0ac037b-a050-4b46-8593-3c76972c4767"
+			],
+			[
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379",
+				"Persons/68e4f63f-fec2-48dc-a144-24f8174e1d83"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/5c500b2b-d190-494b-ac22-1d229b0c4bc4"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/9e616dea-ce41-4127-a0a0-79d408c6aedd"
+			],
+			[
+				"Persons/6219848a-e80c-4357-90bc-6329ec6f47b7",
+				"Persons/9b6c3a97-4fd8-41d9-8163-2b18ea602893"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/dcfd9b9f-59d2-40c8-b669-6b381d757830"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/43c4b718-947f-4364-a8f0-8d6a5fcf47b9"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/42f0532e-aae2-442d-8024-fac42135269a"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/275df189-b9d5-4426-9b38-517c4a21e1f3"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/e1ccf292-72b8-4b94-ae05-8623f807930d"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/376f541d-772d-43ad-a00f-0cecc4b8b284"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/3238568c-dbb1-40ec-866a-bb453d3565b8"
+			],
+			[
+				"Persons/be967159-8ff4-48d7-8076-28d13eadedaf",
+				"Persons/30176e16-020b-4382-a204-1a344ef05a60"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/e852a20b-c17f-41de-8267-e81b7c22eea7"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/293ef502-5ee6-4965-b862-5100031fbe6f"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/1ed9826d-d436-493a-9680-79425beaa53f"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/0d97a16a-b06c-4886-8aec-ae0ef28f6eae"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/07150201-6bd3-46c2-9779-68b8186fab4c"
+			],
+			[
+				"Persons/77b803e4-6c07-46cb-ac37-40a50fcaac86",
+				"Persons/c5829f12-ec82-4e71-b4fe-5026e9723fe7"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/f0cc8c2f-7c95-49f6-8407-1c41ab4d10ff"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/e7e66b39-3982-4f7a-85ef-09763cbc1ef7"
+			],
+			[
+				"Persons/8b17c482-ad39-4e19-9a77-d5893f86a454",
+				"Persons/e70ec8d0-5b20-49bc-b376-26a349f4bc03"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/df7ea8bc-dcd7-48b2-94d7-f82fba81f89c"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/dd896229-ad3d-46d3-87ef-d43d6caf4e9d"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/d4daba35-ae95-4c82-a63c-69c58436d7ab"
+			],
+			[
+				"Persons/cab4e330-d55e-43ef-8971-aa4aa1cf0a75",
+				"Persons/d2df225e-dd54-4d88-97d0-93677ebd1e75"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/d0507152-2fc8-484c-bf5b-74b7e7da5d4b"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/cc286435-95d7-4e43-b281-c56e9198dbc4"
+			],
+			[
+				"Persons/be19fe3e-15e9-45ba-8023-0c3c5c79cbaa",
+				"Persons/c5f71f5b-4250-46bb-9f65-1bcbc73441ea"
+			],
+			[
+				"Persons/2dd83482-cc7e-4184-b20a-18b330f24be2",
+				"Persons/84ecf7f3-04ca-411d-b679-d5f0aa9eec0f"
+			],
+			[
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e",
+				"Persons/bafb736e-a72f-496e-8f02-267dfa5873ae"
+			],
+			[
+				"Persons/7a28b690-1162-4ff6-8bfd-15f5860b59ab",
+				"Persons/bb4b638d-6b3b-46e4-acac-7e0324212f3d"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/b9228e05-8290-4f6a-8284-79cd81d53e27"
+			],
+			[
+				"Persons/33ed23b1-b6af-4d2b-96bf-ac050645fc97",
+				"Persons/b8484c38-c8c3-4f59-ac03-779f4cdfb693"
+			],
+			[
+				"Persons/c06fb7f0-0184-4840-a1ca-e09f9944d379",
+				"Persons/b0e4c471-8b36-48dd-bf34-6e68947b3196"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/a00766e1-8a9c-4115-9cdd-e78f48d95457"
+			],
+			[
+				"Persons/3ad90c56-94e7-4b7e-b687-1e64c0eb89a5",
+				"Persons/9cdc1542-5903-4ed0-a4a2-3ff3cb8b6c67"
+			],
+			[
+				"Persons/4102466d-051b-4a3a-bbf0-4e1186599dd3",
+				"Persons/f85a19bc-5a31-47b1-a1eb-ec43e3f1f29e"
+			],
+			[
+				"Persons/3c107249-fd69-434e-bd1c-93108b9e58e0",
+				"Persons/8ba89444-b63c-4444-b604-ada791b14615"
+			],
+			[
+				"Persons/e28bc761-ef37-41bc-8abb-e08a8fd713c9",
+				"Persons/c5c19800-59bf-4018-b165-f52d15e42f94"
+			]
+		],
+		"query": {
+			"loc": "pa10",
+			"desc": "regen"
+		},
+		"total": 296,
+		"total_edges": 219,
+		"query_name": "aqlSearchPerson"
+	}

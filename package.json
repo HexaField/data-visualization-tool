@@ -1,10 +1,10 @@
 {
-  "name": "@ir-engine/ir-static-build-template",
+  "name": "@hexafield/data-visualization-tool",
   "version": "0.0.0",
   "description": "",
   "main": "",
   "scripts": {
-    "test": "exit 0",
+    "test": "vitest run",
     "check-errors": "tsc --noemit",
     "dev": "cross-env APP_ENV=development NODE_OPTIONS=--max_old_space_size=20480 vite",
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=10240 vite build",
@@ -17,7 +17,9 @@
     "localstart": "cross-env APP_ENV=production VITE_LOCAL_BUILD=true npm run start"
   },
   "peerDependencies": {},
-  "dependencies": {},
+  "dependencies": {
+    "json-transforms": "1.1.2"
+  },
   "devDependencies": {},
   "license": "ISC",
   "pre-commit": [
