@@ -123,7 +123,6 @@ describe('transformData', () => {
     }
 
     const outputData = transformData(jsonRules, inputData)
-    console.log(outputData)
 
     expect(outputData).toEqual({
       nodes: [
@@ -148,6 +147,112 @@ describe('transformData', () => {
         {
           source: 'b',
           target: 'c'
+        }
+      ]
+    })
+  })
+
+  it('should transform data with provided mapping and handle nested properties', () => {
+    const inputData = {
+      elements: {
+        rows: [
+          {
+            id: 'alpha',
+            value: {
+              _id: 'a',
+              attributes: {
+                label: 'Alpha',
+                description: 'The first letter of the Greek alphabet.'
+              }
+            }
+          },
+          {
+            id: 'beta',
+            value: {
+              _id: 'b',
+              attributes: {
+                label: 'Beta',
+                description: 'The second letter of the Greek alphabet.'
+              }
+            }
+          },
+          {
+            id: 'gamma',
+            value: {
+              _id: 'c',
+              attributes: {
+                label: 'Gamma',
+                description: 'The third letter of the Greek alphabet.'
+              }
+            }
+          }
+        ]
+      },
+      connections: {
+        rows: [
+          {
+            id: '1',
+            key: 'Connection',
+            value: {
+              _id: '1',
+              from_id: 'alpha',
+              to_id: 'beta'
+            }
+          },
+          {
+            id: '2',
+            key: 'Connection',
+            value: {
+              _id: '2',
+              from_id: 'beta',
+              to_id: 'gamma'
+            }
+          }
+        ]
+      }
+    }
+
+    // express the rules as serializable JSON, such that they can be stored in a database
+    const jsonRules = {
+      nodes: [
+        {
+          id: 'elements.rows.value._id',
+          label: 'elements.rows.value.attributes.label'
+        }
+      ],
+      edges: [
+        {
+          source: 'connections.rows.value.from_id',
+          target: 'connections.rows.value.to_id'
+        }
+      ]
+    }
+
+    const outputData = transformData(jsonRules, inputData)
+
+    expect(outputData).toEqual({
+      nodes: [
+        {
+          id: 'a',
+          label: 'Alpha'
+        },
+        {
+          id: 'b',
+          label: 'Beta'
+        },
+        {
+          id: 'c',
+          label: 'Gamma'
+        }
+      ],
+      edges: [
+        {
+          source: 'alpha',
+          target: 'beta'
+        },
+        {
+          source: 'beta',
+          target: 'gamma'
         }
       ]
     })
