@@ -7,17 +7,17 @@ import {
   Entity,
   EntityTreeComponent,
   SimulationSystemGroup,
+  UndefinedEntity,
   createEntity,
   defineSystem,
   getComponent,
+  removeEntity,
   setComponent
 } from '@ir-engine/ecs'
 import { InstancingComponent } from '@ir-engine/engine/src/scene/components/InstancingComponent'
 import { defineState, getMutableState, getState, useHookstate, useMutableState } from '@ir-engine/hyperflux'
-import { AmbientLightComponent, ReferenceSpaceState, TransformComponent } from '@ir-engine/spatial'
-import { CameraOrbitComponent } from '@ir-engine/spatial/src/camera/components/CameraOrbitComponent'
+import { ReferenceSpaceState, TransformComponent } from '@ir-engine/spatial'
 import { NameComponent } from '@ir-engine/spatial/src/common/NameComponent'
-import { RendererState } from '@ir-engine/spatial/src/renderer/RendererState'
 import { MeshComponent } from '@ir-engine/spatial/src/renderer/components/MeshComponent'
 import { ObjectComponent } from '@ir-engine/spatial/src/renderer/components/ObjectComponent'
 import { setVisibleComponent } from '@ir-engine/spatial/src/renderer/components/VisibleComponent'
@@ -307,11 +307,21 @@ const reactor = () => {
     const center = d3.forceCenter()
     const link = d3.forceLink(simulationData.links).id(getID).strength(strengthFuncs.linear)
 
-    const simulation: d3_type = d3
-      .forceSimulation(simulationData.nodes, 3)
-      .force('link', link)
-      .force('charge', charge)
-      .force('center', center)
+    let simulation: d3_type
+
+    try {
+      simulation = d3.forceSimulation(simulationData.nodes, 3)
+
+      simulation.force('link', link).force('charge', charge).force('center', center)
+    } catch (e) {
+      console.log(e)
+      gui.destroy()
+      getMutableState(d3State).nodes.set([])
+      getMutableState(d3State).links.set([])
+      getMutableState(d3State).meshEntity.set(UndefinedEntity)
+      getMutableState(d3State).lineEntity.set(UndefinedEntity)
+      return
+    }
 
     const defaultImage = 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png'
     const nodesWithDefaultImage = [
@@ -323,7 +333,7 @@ const reactor = () => {
       ...dataset.nodes
     ]
     // atlasImages(nodesWithDefaultImage).then(() => {
-      
+
     // })
     // load images
 
@@ -331,7 +341,7 @@ const reactor = () => {
     setComponent(entity, NameComponent, 'Node')
     setComponent(entity, TransformComponent, { position: new Vector3(0, 0, 0) })
     setVisibleComponent(entity, true)
-    
+
     const circleGeom = new CircleGeometry(graphScale, 16)
     const material = new MeshBasicMaterial({ side: DoubleSide })
     const mesh = new InstancedMesh(circleGeom, material, dataset.nodes.length)
@@ -364,6 +374,17 @@ const reactor = () => {
     setComponent(lineEntity, EntityTreeComponent, { parentEntity: originEntity })
 
     getMutableState(d3State).lineEntity.set(lineEntity)
+
+    return () => {
+      gui.destroy()
+      simulation.stop()
+      removeEntity(entity)
+      removeEntity(lineEntity)
+      getMutableState(d3State).nodes.set([])
+      getMutableState(d3State).links.set([])
+      getMutableState(d3State).meshEntity.set(UndefinedEntity)
+      getMutableState(d3State).lineEntity.set(UndefinedEntity)
+    }
   }, [!!dataset, originEntity, viewerEntity])
 
   return null

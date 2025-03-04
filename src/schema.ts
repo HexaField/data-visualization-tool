@@ -1,8 +1,8 @@
-// Define a type for our JSON Schema nodes.
 export interface JSONSchema {
   type: string
   properties?: { [key: string]: JSONSchema }
   items?: JSONSchema
+  optional?: boolean
   format?: string
 }
 

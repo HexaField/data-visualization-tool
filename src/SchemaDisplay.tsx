@@ -1,16 +1,10 @@
 import { useHookstate } from '@hookstate/core'
 import { getNestedObject, NO_PROXY, setNestedObject } from '@ir-engine/hyperflux'
+import { Button } from '@ir-engine/ui'
 import React, { useEffect } from 'react'
+import { JSONSchema } from './schema'
+import { JSONPreview } from './ui/JSONPreview'
 
-// --------------------------
-// JSON Schema Types & Updated Flattening Logic
-// --------------------------
-
-export interface JSONSchema {
-  type: string
-  properties?: { [key: string]: JSONSchema }
-  items?: JSONSchema
-}
 /**
  * Recursively flattens a JSONSchema so that nested properties are represented
  * with period-separated keys.
@@ -168,18 +162,69 @@ const buildEmptyStructureFromSchema = (schema: JSONSchema): any => {
   }
 }
 
-// --------------------------
-// UI Component
-// --------------------------
+const getRequirements = (schema: JSONSchema, path: string): string[] => {
+  let result: string[] = []
+  if (schema.optional) return result
+  if (schema.type === 'object' && schema.properties) {
+    for (const key in schema.properties) {
+      const childSchema = schema.properties[key]
+      if (childSchema.optional) continue
+      if (childSchema.type === 'object' && childSchema.properties) {
+        result = [...result, ...getRequirements(childSchema, path ? `${path}.${key}` : key)]
+      } else if (childSchema.type === 'array' && childSchema.items && childSchema.items.type === 'object') {
+        result = [...result, ...getRequirements(childSchema.items, path ? `${path}.${key}` : key)]
+      } else {
+        result.push(path ? `${path}.${key}` : key)
+      }
+    }
+  } else if (schema.type === 'array' && schema.items) {
+    if (schema.items.type === 'array') {
+      result.push(path)
+    } else {
+      result.push(path)
+    }
+  } else {
+    result.push(path)
+  }
+  return result
+}
+
+const getNestedObjectIgnoringArrays = (obj: any, path: string): any => {
+  const parts = path.split('.')
+  let result = obj
+  for (const part of parts) {
+    if (result[part] === undefined) {
+      return
+    }
+    if (Array.isArray(result[part])) {
+      result = result[part][0]
+      continue
+    }
+    result = result[part]
+  }
+  return result
+}
+
+const allRequirementsMet = (schema: JSONSchema, mapping: any): boolean => {
+  const requirements = getRequirements(schema, '')
+  return requirements.every((req) => !!getNestedObjectIgnoringArrays(mapping, req))
+}
 
 export interface GraphMappingSettingsProps {
   jsonSchema: JSONSchema
   targetSchemas: Array<{ value: JSONSchema; label: string }>
   data: any
   onChange: (mapping: any) => void
+  onConfirm: () => void
 }
 
-const GraphMappingSettings: React.FC<GraphMappingSettingsProps> = ({ jsonSchema, targetSchemas, data, onChange }) => {
+const GraphMappingSettings: React.FC<GraphMappingSettingsProps> = ({
+  jsonSchema,
+  targetSchemas,
+  data,
+  onChange,
+  onConfirm
+}) => {
   // Global visualization type state.
   const visualizationType = useHookstate(0)
   const currentSchema = targetSchemas[visualizationType.get()].value
@@ -208,7 +253,7 @@ const GraphMappingSettings: React.FC<GraphMappingSettingsProps> = ({ jsonSchema,
   }
 
   return (
-    <div className="mx-auto max-w-6xl p-4">
+    <div className="6xl mx-auto p-4">
       <h2 className="mb-4 text-2xl font-semibold">Graph Mapping Settings</h2>
 
       {/* Global Visualization Type Selection */}
@@ -230,35 +275,32 @@ const GraphMappingSettings: React.FC<GraphMappingSettingsProps> = ({ jsonSchema,
         </select>
       </div>
       <h3 className="mb-2 text-xl font-semibold">Forcegraph Mapping</h3>
-      <div className="grid grid-cols-2 gap-6">
-        {/* Nodes Mapping */}
-        <div>
-          <h4 className="mb-2 text-lg font-medium">Nodes</h4>
-          <table className="min-w-full border border-gray-200 bg-white">
-            <thead>
-              <tr>
-                <th className="border-b px-4 py-2 text-left">Graph Field</th>
-                <th className="border-b px-4 py-2 text-left">Mapped Schema Field</th>
-              </tr>
-            </thead>
-            <tbody>
-              <ObjectSchemaOptions
-                schema={currentSchema}
-                options={fieldOptions}
-                path=""
-                onChange={updateMapping}
-                value={graphMappingState.get()}
-              />
-            </tbody>
-          </table>
-        </div>
+      <div>
+        <h4 className="mb-2 text-lg font-medium">Nodes</h4>
+        <table className="min-w-full border border-gray-200 bg-white">
+          <thead>
+            <tr>
+              <th className="border-b px-4 py-2 text-left">Graph Field</th>
+              <th className="border-b px-4 py-2 text-left">Mapped Schema Field</th>
+            </tr>
+          </thead>
+          <tbody>
+            <ObjectSchemaOptions
+              schema={currentSchema}
+              options={fieldOptions}
+              path=""
+              onChange={updateMapping}
+              value={graphMappingState.get()}
+            />
+          </tbody>
+        </table>
       </div>
-
-      {/* Debug Output */}
-      <div className="mt-4 rounded bg-gray-100 p-2">
-        <h4 className="font-medium">Current Graph Mapping</h4>
-        <pre className="text-sm">{JSON.stringify(graphMappingState.get(), null, 2)}</pre>
-      </div>
+      {currentSchema && <JSONPreview json={graphMappingState.get(NO_PROXY)} />}
+      {allRequirementsMet(currentSchema, graphMappingState.get(NO_PROXY)) && (
+        <Button className="pointer-events-auto z-10 mb-1 p-4" variant="tertiary" onClick={onConfirm}>
+          Confirm
+        </Button>
+      )}
     </div>
   )
 }
@@ -274,10 +316,19 @@ const ObjectSchemaOptions: React.FC<{
   onChange: (path: string, e: string) => void
 }> = ({ schema, path, options, value, onChange }) => {
   if (!schema || !schema.properties) return null
+
+  const isFieldMet = (key: string) => {
+    const fieldValue = getNestedObject(value, path ? `${path}.${key}` : key).result
+    return fieldValue !== undefined && fieldValue !== ''
+  }
+
   return (
     <>
       {Object.keys(schema.properties).map((key) => {
         const childSchema = schema.properties![key]
+        const isOptional = childSchema.optional || false
+        const fieldMet = isFieldMet(key)
+
         if (childSchema.type === 'object' && childSchema.properties) {
           return (
             <React.Fragment key={key}>
@@ -317,7 +368,7 @@ const ObjectSchemaOptions: React.FC<{
             <td className="border-b px-4 py-2">{key}</td>
             <td className="border-b px-4 py-2">
               <select
-                className="rounded border p-2"
+                className={`rounded border p-2 ${!isOptional && !fieldMet ? 'border-red-500' : ''}`}
                 value={getNestedObject(value, path ? `${path}.${key}` : key).result}
                 onChange={(e) => onChange(path ? `${path}.${key}` : key, e.target.value)}
               >
